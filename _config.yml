@@ -11,6 +11,16 @@ collections:
   work:
     title: Work
     output: true
+defaults:
+- scope:
+    path: work
+  values:
+    Client: 
+    Credits: 
+    Teaser Image: 
+    URL to Video: 
+    Additional Images:
+      Image: 
 email: hello@factory.town
 description: Description of Factory town.
 baseurl: 
@@ -21,15 +31,3 @@ markdown: kramdown
 theme: minima
 plugins:
 - jekyll-feed
-
-defaults:
-  -
-    scope:
-      path: "work"
-    values: 
-      Client: 
-      Credits: 
-      Teaser Image: 
-      URL to Video: 
-      Additional Images:
-        Image: 
