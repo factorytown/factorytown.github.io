@@ -5,14 +5,19 @@ position: 2
 layout: page
 ---
 
-Tell Us What You're
-dreaming About,
-metaphorically
-speaking, Unless You
-just Want To Get A
-dream Interpretation,
-because We're
-actually Not So Bad
-at That Either. 
+We Are
+always
+searching
+for The
+feeling
+we Get
+when
+we See
+something
+inescapably
+true
 
-Hi@factory.town
+WE TELL POWERFUL IMAGINATIVE STORIES
+IN THE UNIVERSAL LANGUAGE OF CINEMA.
+
+We're a small crew with a big ability to take an idea and make it visual. We work closely with brands and non-profits to bring their vision to life through memorable storytelling.  
