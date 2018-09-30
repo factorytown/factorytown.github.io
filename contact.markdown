@@ -4,14 +4,14 @@ date: 2018-04-23 02:51:00 Z
 position: 1
 ---
 
-Tell Us What You're
-dreaming About,
+Tell us what you're
+dreaming about,
 metaphorically
-speaking, Unless You
-just Want To Get A
-dream Interpretation,
-because We're
-actually Not So Bad
-at That Either. 
+speaking, Unless you
+just want to get a
+dream interpretation,
+because we're
+actually not so bad
+at those either. 
 
-Hi@factory.town
+hi@factory.town
