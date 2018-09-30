@@ -2,14 +2,14 @@
 title: Factory Town
 timezone: UTC
 collections:
+  work:
+    title: Our Work
+    output: true
   posts:
     title: Posts
     output: true
   uploads:
     title: Uploads
-    output: true
-  work:
-    title: Work
     output: true
 defaults:
 - scope:
