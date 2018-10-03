@@ -6,5 +6,7 @@ Project Information:
   Project Name: 
   Project Client: 
   Credits: 
+Image Gallery:
+  Image: 
 ---
 
