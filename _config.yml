@@ -2,6 +2,9 @@
 title: Factory Town
 timezone: UTC
 collections:
+  design:
+    title: Design
+    output: true
   film:
     title: Film
     output: true
