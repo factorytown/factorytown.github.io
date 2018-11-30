@@ -5,7 +5,7 @@ position: 2
 layout: page
 ---
 
-We're always searching for that feeling we get when you see something inescapably true.
+We're always searching for that feeling we get when you see something true.
 
 We're small writer director studio, with a big ability to take an idea and make it visual. 
 
