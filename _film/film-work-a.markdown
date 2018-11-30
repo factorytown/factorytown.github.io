@@ -1,11 +1,15 @@
 ---
 title: Film Work A
 date: 2018-10-03 06:08:00 Z
-Thumbnail: 
+tags:
+- film
+- production
+- city
+- commercial
 Project Information:
-  Project: 
-  Client: 
+  Project: The Pitch
+  Client: Downtown Spokane Partnership
   Credits: 
-Video URL: 
+Video URL: https://vimeo.com/252648997
 ---
 
