@@ -13,3 +13,4 @@ Project Information:
 Video URL: https://vimeo.com/252648997
 ---
 
+We worked with the downtown business partnership organization in Spokane on a piece to tell the story of the city. 
