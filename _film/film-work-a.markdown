@@ -7,9 +7,8 @@ tags:
 - city
 - commercial
 Project Information:
-  Project: The Pitch
   Client: Downtown Spokane Partnership
-  Credits: 
+  Title: The Pitch
 Video URL: https://vimeo.com/252648997
 ---
 
