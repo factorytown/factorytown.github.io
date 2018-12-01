@@ -8,6 +8,9 @@ collections:
   film:
     title: Film
     output: true
+  installations:
+    title: Installations
+    output: true
   photo:
     title: Photo
     output: true
