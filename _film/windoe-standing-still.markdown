@@ -11,4 +11,4 @@ Field name:
 '
 ---
 
-Windoe came to us with a proposition for her new album "Great Prize". She wanted to do mark the album with one of the more pensive tracks - Slow It Down. We loved the song, but also wanted to make a compliment which had some higher energy. With 'Standing Still' we contemplated the surreal backbone of the song and decided to mix both contemporary country line dancing with modern. We designed and painted the room where we filmed at a downtown art studio and filmed over two days. 
+The band Windoe came to us with a proposition for her new album "Great Prize". She wanted to do mark the album with one of the more pensive tracks - Slow It Down. We loved the song, but also wanted to make a compliment which had some higher energy. With 'Standing Still' we contemplated the surreal backbone of the song and decided to mix both contemporary country line dancing with modern. We designed and painted the room where we filmed at a downtown art studio and filmed over two days. 
