@@ -10,4 +10,5 @@ Field name:
 
 [MAIN: Photo of Mural]
 
-Elysian approached us with the dream of transforming their brewery building in a neighborhood icon. We The brewery already had a rich history of working with artists on their beer labels and knew the impact it had in their communities, and they hoped to do the same to their headquarters in the heart of Seattle. 
+Elysian approached us with the dream of transforming their brewery building in a neighborhood icon. The brewery had a rich history of working with artists on their beer labels and knew the impact it had in their communities, and they hoped to do the same to their headquarters in the heart of Seattle. 
+We used the brand's color palate and surrounding environment to inspire a look that would transform the building into a space that boldly showed Elysian's intent to celebrate art and music, and to create positive energy in their neighborhood.
