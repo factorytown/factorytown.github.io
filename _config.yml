@@ -2,11 +2,11 @@
 title: Factory Town
 timezone: UTC
 collections:
+  design:
+    title: Art
+    output: true
   photo:
     title: Branding
-    output: true
-  design:
-    title: Design
     output: true
   installations:
     title: Environment
