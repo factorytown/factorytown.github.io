@@ -2,6 +2,9 @@
 title: Factory Town
 timezone: UTC
 collections:
+  photo:
+    title: Branding
+    output: true
   design:
     title: Design
     output: true
@@ -10,9 +13,6 @@ collections:
     output: true
   film:
     title: Film
-    output: true
-  photo:
-    title: Photo
     output: true
   posts:
     title: Posts
