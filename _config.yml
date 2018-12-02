@@ -5,11 +5,11 @@ collections:
   design:
     title: Design
     output: true
+  installations:
+    title: Environment
+    output: true
   film:
     title: Film
-    output: true
-  installations:
-    title: Installations
     output: true
   photo:
     title: Photo
