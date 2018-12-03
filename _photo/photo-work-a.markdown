@@ -12,7 +12,7 @@ Image Gallery:
 
 <iframe width="640" height="480" src="https://www.youtube.com/embed/35gb2n5MRcM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Over the course of multiple years, we built upon the Gonzaga brand. Developing the 'Unfold' campaign into photography and video, we were able to tell stories of students and educators.
+Over the course of multiple years we built upon the Gonzaga brand. Developing the 'Unfold' campaign into photography and video, we were able to tell stories of students and educators.
 
 
 
