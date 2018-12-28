@@ -37,7 +37,7 @@ layout: default
 					<div class="listing-item__info">
 						<h2 class="listing-item__title">{{ project.title }}</h2>
 						<p class="listing-item__subtitle">{{ project.Sub-Title }}
-							{% for category in page.categories %}
+							{% for category in project.categories %}
 								( <em>{{ category }}</em> )
 							{% endfor %}
 						
