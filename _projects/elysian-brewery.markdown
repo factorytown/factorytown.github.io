@@ -3,8 +3,6 @@ title: Elysian Brewery
 date: 2018-12-28 06:02:00 Z
 categories:
 - environment
-Sub Title: Elysian Brewery Mural
-Featured Image: 
 ---
 
 Elysian approached us with the dream of transforming their brewery building in a neighborhood icon. The brewery had a rich history of working with artists on their beer labels and knew the impact it had in their communities, and they hoped to do the same to their headquarters in the heart of Seattle. 
