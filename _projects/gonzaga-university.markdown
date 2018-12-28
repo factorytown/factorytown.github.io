@@ -7,22 +7,22 @@ categories:
 Sub-Title: Gonzaga University
 ---
 
-<iframe src="https://www.youtube.com/embed/35gb2n5MRcM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/35gb2n5MRcM?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Over the course of multiple years we built upon the Gonzaga brand, developing the 'Unfold' campaign into photography and video. We were able to tell stories of students and educators with a focus on real connective moments as we built the visual library of the University. 
 
-<iframe src="https://www.youtube.com/embed/hHOYxYL0RK4?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHOYxYL0RK4?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe src="https://www.youtube.com/embed/7uqiGoepAEA?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7uqiGoepAEA?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <div class="gallery" data-columns="3">
 <img src="/uploads/09132010ClassOutside-6_5012927460_o(1).jpg" />
 <img src="/uploads/09232010GonzagaMagFirstIssue4.jpg" />
 </div>
 
-<iframe src="https://www.youtube.com/embed/jAP8ON3Q5XE?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jAP8ON3Q5XE?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe src="https://www.youtube.com/embed/LBRUJwy5gC4?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBRUJwy5gC4?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 <div class="gallery" data-columns="3">
