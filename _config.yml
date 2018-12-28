@@ -36,7 +36,6 @@ defaults:
     type: projects
   values:
     layout: project
-    
 site: Factory Town
 markdown: kramdown
 kramdown:
