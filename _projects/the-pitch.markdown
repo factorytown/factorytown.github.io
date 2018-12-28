@@ -8,6 +8,6 @@ Sub-Title: Downtown Spokane Partnership
 Featured-Image: "/uploads/pitch-feature-image.png"
 ---
 
-<iframe src="https://player.vimeo.com/video/252648997" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/252648997" width="640" height="337" frameborder="0" allowfullscreen></iframe>
 
 We worked with the downtown business partnership organization in Spokane on a piece to tell the story of the city, but not in the way you usually see it, but from the people who really know it. 
