@@ -2,9 +2,6 @@
 title: Factory Town
 timezone: UTC
 collections:
-  environment:
-    title: Environment
-    output: true
   pages:
     title: Pages
     output: true
