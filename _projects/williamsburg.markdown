@@ -5,7 +5,7 @@ categories:
 - environment
 position: 3
 Sub-Title: Williamsburg, Brooklyn, NY
-Featured-Image: "/uploads/NY-DOT-Mural-EllenPicken-1321.jpg"
+Featured-Image: "/uploads/williamsburg-feature-image.jpg"
 ---
 
 <iframe src="https://player.vimeo.com/video/304025821" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
