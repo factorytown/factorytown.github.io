@@ -23,7 +23,7 @@ layout: default
 
 		</div>
 
-		{% for project in site.projects %}
+		{% for project in site.projects | sort:"position" %}
 
 		<div class="listing-item">
 			
