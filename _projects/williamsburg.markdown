@@ -3,6 +3,7 @@ title: Williamsburg
 date: 2018-12-28 06:34:00 Z
 categories:
 - environment
+position: 3
 Sub-Title: Williamsburg, Brooklyn, NY
 Featured-Image: "/uploads/NY-DOT-Mural-EllenPicken-1321.jpg"
 ---

@@ -3,6 +3,7 @@ title: The Pitch
 date: 2018-12-28 07:37:00 Z
 categories:
 - film
+position: 2
 Sub-Title: Downtown Spokane Partnership
 Featured-Image: "/uploads/pitch-feature-image.png"
 ---
