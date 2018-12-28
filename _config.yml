@@ -36,8 +36,8 @@ defaults:
     type: projects
   values:
     layout: project
-    Sub Title:
-    Featured Image:
+    Sub Title: 
+    Featured Image: 
 site: Factory Town
 markdown: kramdown
 kramdown:
