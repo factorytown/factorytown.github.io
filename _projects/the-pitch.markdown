@@ -1,6 +1,8 @@
 ---
 title: The Pitch
 date: 2018-12-28 07:37:00 Z
+categories:
+- film
 Sub-Title: Downtown Spokane Partnership
 Featured-Image: "/uploads/NY-DOT-Mural-EllenPicken-1321-eee75f.jpg"
 ---
