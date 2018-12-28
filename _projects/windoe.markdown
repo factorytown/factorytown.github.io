@@ -8,7 +8,7 @@ Sub-Title: Windoe | Slow It Down
 Featured-Image: "/uploads/windoe-feature-image.jpg"
 ---
 
-<div style="padding:52.73% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/288082837?color=ef0097" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<iframe src="https://player.vimeo.com/video/288082837" width="640" height="337" frameborder="0" allowfullscreen></iframe>
 
 When Karli from the band Windoe came to us to discuss potential tracks from her upcoming album, we both loved this song. It's the lament of an artist trying to make it in the world while also trying to come to terms with the long term game plan of what they are trying to accomplish, and how inevitably we never meet our own goals. 
 
