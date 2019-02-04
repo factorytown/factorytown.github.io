@@ -5,7 +5,7 @@ categories:
 - film
 position: 6
 Sub-Title: Windoe | Slow It Down
-Featured-Image: "/uploads/windoe-feature-image.jpg"
+Featured-Image: "/uploads/WindoeStandingSTill.JPG"
 ---
 
 <iframe src="https://player.vimeo.com/video/288082837" width="640" height="337" frameborder="0" allowfullscreen></iframe>
