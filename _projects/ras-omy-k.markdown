@@ -5,7 +5,7 @@ published: false
 categories:
 - film
 Sub-Title: WIN WIN
-Featured-Image: "/uploads/Screen%20Shot%202017-06-25%20at%202.47.42%20AM.png"
+Featured-Image: "/uploads/Impanda.jpg"
 ---
 
 Ras Omy K had a simple but powerful dream: that we are all responsible for one another. A few months later returned to Rwanda to bring health care to hundreds of kids who needed it the most. While he was home, he saw how the simple act of sharing health and security with others made him feel stronger himself. He asked everyone he met to share their stories and to dance with him. The week he arrived back in Washington with his family he brought back with him those stories and shared those dance moves and we made this video.
