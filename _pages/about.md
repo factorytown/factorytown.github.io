@@ -6,6 +6,8 @@ title: About
 
 Stories are our most powerful tool. Film and photography are a universal language. 
 
+## WHO WE ARE
+
 We're a dual director studio. We work with our hands to make cinema, photography and  imaginative visuals. We work in both fiction and non-fiction.
 
 Rajah Bose is a photographer and filmmaker with more than two decades behind the camera.
