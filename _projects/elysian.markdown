@@ -4,7 +4,7 @@ date: 2018-12-27 22:16:00 -08:00
 categories:
 - environment
 position: 1
-Sub-Title: Elysian Brewery Mural
+Sub-Title: 'Elysian Brewery Mural '
 Featured-Image: "/uploads/ElysianBrewery-Mural-8304-3a336e.jpg"
 ---
 
