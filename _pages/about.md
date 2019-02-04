@@ -4,9 +4,7 @@ title: About
 
 ## WHAT WE BELIEVE
 
-Stories are our most powerful tool. Film and photography are a universal language. We call them drama or comedy, tale or tragedy, and they move people.
-
-## WHO WE ARE
+Stories are our most powerful tool. Film and photography are a universal language. 
 
 We're a dual director studio. We work with our hands to make cinema, photography and  imaginative visuals. We work in both fiction and non-fiction.
 
