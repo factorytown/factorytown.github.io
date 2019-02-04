@@ -1,5 +1,5 @@
 ---
-title: CONTACT
+title: Contact
 ---
 
 # COMPLIMENTS, COMPLAINTS, QUESTIONS
