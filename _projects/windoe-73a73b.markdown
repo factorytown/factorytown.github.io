@@ -8,4 +8,4 @@ position: 4
 Sub-Title: Slow It Down
 ---
 
-When Karli from the band Windoe came to us to discuss potential tracks from her upcoming album, we both loved this song. It's the lament of an artist trying to make it in the world while also trying to come to terms with the long term game plan of what they are trying to accomplish, and how inevitably we never meet our own goals. 
+When Karli from the band Windoe came to us to discuss potential tracks from her upcoming album, we both loved this song. It's the lament of an artist trying to make it in the world while also trying to come to terms with the long term game plan of what they are trying to accomplish, and how inevitably we never meet our own ever-changing goals. It was a song we thought many creatives, athletes, entrepreneurs, and artists could identify with, and we tried to find a way to tell that story.
