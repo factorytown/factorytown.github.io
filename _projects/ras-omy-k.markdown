@@ -1,10 +1,9 @@
 ---
 title: Impanda
 date: 2018-12-28 20:23:00 Z
-published: false
 categories:
 - film
-Sub-Title: WIN WIN
+Sub-Title: 'Impanda - The Rise '
 Featured-Image: "/uploads/Impanda-3b753b.jpg"
 ---
 
