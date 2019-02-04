@@ -4,7 +4,7 @@ title: About
 
 ## WHAT WE BELIEVE
 
-Stories are universal and are our most powerful tool. Film, photography, and visual art are our universal language.
+ We're a creative agency founded on the idea that stories are the most valuable commodity we have. We work closely with brands and non-profits to understand their vision and to bring it to life through memorable storytelling.
 
 ## WHO WE ARE
 
