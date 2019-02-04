@@ -2,14 +2,9 @@
 title: Contact
 ---
 
-TELL US WHAT YOU'RE  <br />
-DREAMING ABOUT, <br />
-METAPHORICALLY <br />
-SPEAKING, UNLESs YOU <br />
-JUST WANT TO GET A <br />
-DREAM INTERPRETATION,
-BECAUSE WE'RE <br />
-ACTUALLY NOT SO BAD <br />
-AT THAT EITHER. <br />
+<h1>
+CONTACT FORM IS BROKEN <br />
+hi@factory.town<br />
+</h1>
 
-{% include contact-form.html %}
+****
