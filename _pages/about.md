@@ -4,7 +4,7 @@ title: About
 
 ## WHAT WE BELIEVE
 
-Stories are our most powerful tool. Film and photography are a universal language. 
+Stories are our most powerful tool. Film, photography, and visual art are our universal language. 
 
 ## WHO WE ARE
 
