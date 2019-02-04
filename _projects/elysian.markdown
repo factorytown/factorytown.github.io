@@ -1,6 +1,6 @@
 ---
 title: Elysian
-date: 2018-12-28 06:16:00 Z
+date: 2018-12-27 22:16:00 -08:00
 categories:
 - environment
 position: 1
@@ -13,11 +13,13 @@ Elysian approached us with the dream of transforming their brewery building in a
 We used the brand's color palate and surrounding environment to inspire a look that would transform the building into a space that boldly showed Elysian's intent to celebrate art and music and to create positive energy in their neighborhood.
 
 <div class="gallery" data-columns="3">
-    <img src="/uploads/ElysianBrewery-Mural-8304.jpg" />
-    <img src="/uploads/ElysianBrewery-Mural-8315.jpg" />
-    <img src="/uploads/ElysianBrewery-Mural-8319.jpg" />
-    <img src="/uploads/ElysianBrewery-Mural-8313.jpg" />
-    <img src="/uploads/ElysianBrewery-Mural-8329.jpg" />
-    <img src="/uploads/ElysianBrewery-Mural-8325.jpg" />
-    <img src="/uploads/ElysianBrewery-Mural-8328.jpg" />
+<img src="/uploads/ElysianBrewery-Mural-8304.jpg" />
+<img src="/uploads/ElysianBrewery-Mural-8315.jpg" />
+<img src="/uploads/ElysianBrewery-Mural-8319.jpg" />
+<img src="/uploads/ElysianBrewery-Mural-8313.jpg" />
+<img src="/uploads/ElysianBrewery-Mural-8329.jpg" />
+<img src="/uploads/ElysianBrewery-Mural-8325.jpg" />
+<img src="/uploads/ElysianBrewery-Mural-8328.jpg" />
+
+![lavoy-feature-image.jpg](/uploads/lavoy-feature-image.jpg)
 </div>
