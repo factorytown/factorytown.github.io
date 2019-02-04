@@ -5,7 +5,7 @@ categories:
 - film
 position: 5
 Sub-Title: Healing Hearts Northwest
-Featured-Image: "/uploads/heart-rwanda-feature-image.jpg"
+Featured-Image: "/uploads/Rwanda.JPG"
 ---
 
 <iframe src="https://player.vimeo.com/video/303786933" width="640" height="337" frameborder="0" allowfullscreen></iframe>
