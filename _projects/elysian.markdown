@@ -21,6 +21,6 @@ We used the brand's color palate and surrounding environment to inspire a look t
 <img src="/uploads/ElysianBrewery-Mural-8325.jpg" />
 <img src="/uploads/ElysianBrewery-Mural-8328.jpg" />
 
-<img src="/uploads/[GonzagaJPG.JPG](/uploads/GonzagaJPG.JPG)" />
+<img src="/uploads/GonzagaJPG.JPG" />
 
 </div>
