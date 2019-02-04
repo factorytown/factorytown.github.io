@@ -2,6 +2,10 @@
 title: Factory Town
 timezone: UTC
 collections:
+  projects:
+    title: PROJECTS
+    output: true
+    permalink: "/project/:slug"
   pages:
     title: Pages
     output: true
@@ -9,10 +13,6 @@ collections:
   posts:
     title: Posts
     output: true
-  projects:
-    title: Projects
-    output: true
-    permalink: "/project/:slug"
   uploads:
     title: Uploads
     output: true
