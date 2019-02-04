@@ -21,5 +21,5 @@ It's one of the most beautiful areas we know.
 
 ## HOW TO FIND US
 
-email  [hi@factory.town](hi@factory.town)\
+email  [hi@factory.town](mailto:'hi@factory.town')\
 instagram [@factory.town](http://instagram.com/factory.town)
