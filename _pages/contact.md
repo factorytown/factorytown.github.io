@@ -3,7 +3,7 @@ title: Contact
 ---
 
 <h1>
-CONTACT FORM IS BROKEN <br />
+COMPLAINTS, COMPLIMENTS, AND QUESTIONS<BR>
 <mailto: hi@factory.town>hi@factory.town</a>
 </h1>
 
