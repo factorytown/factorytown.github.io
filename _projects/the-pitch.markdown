@@ -5,7 +5,7 @@ categories:
 - film
 position: 2
 Sub-Title: Downtown Spokane Partnership
-Featured-Image: "/uploads/Pitch8.JPG"
+Featured-Image: "/uploads/Pitch8-9b03ee.JPG"
 ---
 
 We worked with the downtown business partnership organization in Spokane on a piece to tell the story of the city, but not in the way you usually see it, but from the people who really know it. 
