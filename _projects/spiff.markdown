@@ -4,7 +4,7 @@ date: 2019-02-04 19:24:00 -08:00
 categories:
 - film
 Sub-Title: Film Festival Bumper Series
-Featured-Image: "/uploads/SpIFF.JPG"
+Featured-Image: "/uploads/SpIFF-7ccb5c.JPG"
 ---
 
 <iframe src="https://player.vimeo.com/video/315383242" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
