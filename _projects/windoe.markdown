@@ -13,13 +13,13 @@ layout: project
 
 When Karli from the band Windoe came to us to discuss potential tracks from her upcoming album, we gravitated toward this song. It's the lament of an artist trying to make it in the world while also trying to come to terms with the long-term game plan of what they are trying to accomplish, and how inevitably so many of us never meet our own ever-changing goals. It was a song we thought creatives, athletes, entrepreneurs, and artists would understand, and we tried to find a way to tell that story.
 
-Song written and performed by Karli Ingersoll
-Interpretive Dance and Choreography by Zoë Thompson
-Line Dance and Choreography by Francesca Miller
-Line Dancing by Stacy Taylor-Talarico, Rosene Lehner Hurd, Forrest Grivetti, Ryan Robinson
+Song written and performed by Karli Ingersoll<BR>
+Interpretive Dance and Choreography by Zoë Thompson<BR>
+Line Dance and Choreography by Francesca Miller<BR>
+Line Dancing by Stacy Taylor-Talarico, Rosene Lehner Hurd, Forrest Grivetti, Ryan Robinson<P>
 
-Mural by Ellen Picken
-Tinsel Jacket and Earrings by Tara Stone
+Mural by Ellen Picken<BR>
+Tinsel Jacket and Earrings by Tara Stone<BR>
 
-Song produced by Karli Ingersoll and Scott Ryan
+Song produced by Karli Ingersoll and Scott Ryan<BR>
 Engineered, mixed and mastered by Caleb Ingersoll
