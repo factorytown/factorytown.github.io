@@ -5,7 +5,7 @@ categories:
 - video
 position: 5
 Sub-Title: 'Official Music Video '
-Featured-Image: "/uploads/windoeslow2.JPG"
+Featured-Image: "/uploads/windoeslow22.jpg"
 layout: project
 ---
 
