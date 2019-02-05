@@ -6,7 +6,7 @@ categories:
 - photography
 position: 6
 Sub-Title: Healing Hearts Northwest
-Featured-Image: "/uploads/Rwanda.JPG"
+Featured-Image: "/uploads/Rwanda2.jpg"
 ---
 
 <iframe src="https://player.vimeo.com/video/303786933" width="640" height="337" frameborder="0" allowfullscreen></iframe>
