@@ -3,7 +3,7 @@ title: Impanda
 date: 2018-12-28 12:23:00 -08:00
 categories:
 - film
-position: 2
+position: 9
 Sub-Title: 'Impanda - The Rise '
 Featured-Image: "/uploads/ImpandaRwanda-a391ac.jpg"
 ---
