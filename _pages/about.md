@@ -1,5 +1,5 @@
 ---
-title: About
+title: about
 ---
 
 ## **WE TELL POWERFUL IMAGINATIVE STORIES IN THE UNIVERSAL LANGUAGE OF CINEMA.**
