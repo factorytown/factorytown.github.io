@@ -6,7 +6,7 @@ categories:
 position: 8
 Sub-Title: Official Music Video
 Featured-Image: "/uploads/WindoeStandingSTill.JPG"
-layout: category
+layout: project
 ---
 
 <iframe src="https://player.vimeo.com/video/288082837" width="640" height="337" frameborder="0" allowfullscreen></iframe>
