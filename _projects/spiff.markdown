@@ -8,6 +8,7 @@ Featured-Image: "/uploads/SpIFF.JPG"
 ---
 
 
+
 We reached out to the Spokane International Film Festival to help with their upcoming festival and branding. Together we developed a set of five bumper advertisements that would play before each of the films in the festival. The concept was part promotion, part film experiment.
 
 The idea was based on a classic test in film-making called the Kuleshov effect. This was a phenomenon discovered in the early 1900s by Lev Kuleshov by which viewers derive more meaning from the interaction of two sequential shots than from a single shot alone. The viewer would identify different emotions in the protaganist based on what other images accompanied the footage. You can read more about that [here](https://en.wikipedia.org/wiki/Kuleshov_effect).
