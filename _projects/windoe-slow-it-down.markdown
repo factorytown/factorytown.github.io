@@ -1,5 +1,5 @@
 ---
-title: Windoe - Slow It Down
+title: Slow It Down  - Windoe
 date: 2019-02-04 15:18:00 -08:00
 Sub-Title: 'Music Video '
 Featured-Image: "/uploads/windoeslow2.JPG"
