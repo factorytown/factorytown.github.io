@@ -7,7 +7,7 @@ Sub-Title: Film Festival Bumper Series
 Featured-Image: "/uploads/SpIFF.JPG"
 ---
 
-
+<iframe src="https://player.vimeo.com/video/315383242" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 We reached out to the Spokane International Film Festival to help with their upcoming festival and branding. Together we developed a set of five bumper advertisements that would play before each of the films in the festival. The concept was part promotion, part film experiment.
 
