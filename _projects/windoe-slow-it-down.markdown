@@ -6,7 +6,7 @@ categories:
 position: 6
 Sub-Title: 'Music Video '
 Featured-Image: "/uploads/windoeslow2.JPG"
-layout: category
+layout: project
 ---
 
 <iframe src="https://player.vimeo.com/video/303639403" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
