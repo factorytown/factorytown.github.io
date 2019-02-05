@@ -5,7 +5,7 @@ categories:
 - film
 position: 8
 Sub-Title: Empowerment through song
-Featured-Image: "/uploads/ImpandaRwanda-a391ac.jpg"
+Featured-Image: "/uploads/ImpandaRwanda.jpg"
 ---
 
 Omy had a simple but powerful dream - that we are all responsible for one another. He and his partner Sam started an organization to empower children by listening to their stories and giving them the tools and support to become agents of change.  A few months later returned to Rwanda to bring health care to hundreds of kids who needed it the most. While he was home, he saw how the simple act of sharing health and security with others made him feel stronger himself. 
