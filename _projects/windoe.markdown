@@ -3,7 +3,7 @@ title: Standing Still - Windoe
 date: 2018-12-28 00:11:00 -08:00
 categories:
 - film
-position: 8
+position: 7
 Sub-Title: Official Music Video
 Featured-Image: "/uploads/WindoeStandingSTill.JPG"
 layout: project

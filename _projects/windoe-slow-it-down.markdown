@@ -3,7 +3,7 @@ title: Slow It Down  - Windoe
 date: 2019-02-04 15:18:00 -08:00
 categories:
 - video
-position: 6
+position: 5
 Sub-Title: 'Official Music Video '
 Featured-Image: "/uploads/windoeslow2.JPG"
 layout: project
