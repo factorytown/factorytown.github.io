@@ -1,8 +1,9 @@
 ---
 title: The Heart of Rwanda
-date: 2018-12-28 08:01:00 Z
+date: 2018-12-28 00:01:00 -08:00
 categories:
 - film
+- photography
 position: 5
 Sub-Title: Healing Hearts Northwest
 Featured-Image: "/uploads/Rwanda.JPG"
