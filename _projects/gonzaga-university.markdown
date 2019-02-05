@@ -1,9 +1,10 @@
 ---
 title: Gonzaga University
-date: 2018-12-28 08:30:00 Z
+date: 2018-12-28 00:30:00 -08:00
 categories:
 - film
 - photography
+position: 3
 Sub-Title: Gonzaga University
 Featured-Image: "/uploads/GonzagaJPG.JPG"
 ---

@@ -1,9 +1,9 @@
 ---
 title: Lavoy
-date: 2018-12-28 07:55:00 Z
+date: 2018-12-27 23:55:00 -08:00
 categories:
 - film
-position: 0
+position: 1
 Sub-Title: Chicago Official Music Video
 Featured-Image: "/uploads/Lavoy4JPG.JPG"
 ---
