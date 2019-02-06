@@ -20,7 +20,7 @@ When Karli from the band Windoe came to us to discuss potential tracks from her 
 <img src="/uploads/FT-Website-Screenshots-1024.jpg" />
 <img src="/uploads/FT-Website-Screenshots-1025.jpg" />
 <img src="/uploads/FT-Website-Screenshots-1026.jpg" />
-<img src="/uploads/FT-Website-Screenshots-1027.jpg" />\
+<img src="/uploads/FT-Website-Screenshots-1027.jpg" />
 <img src="/uploads/FT-Website-Screenshots-1028.JPG" />
 <img src="/uploads/FT-Website-Screenshots-1029.JPG" />
 <img src="/uploads/FT-Website-Screenshots-1030.JPG" />
