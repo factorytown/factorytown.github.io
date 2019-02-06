@@ -26,6 +26,6 @@ Documentary was released in connection to a story we wrote and published with ac
 <img src="/uploads/FT-Website-Screenshots-1067.jpg" />
 <img src="/uploads/FT-Website-Screenshots-1066.jpg" />
 <img src="/uploads/FT-Website-Screenshots-1068.jpg" />
-<img src="/uploads/FT-Website-Screenshots-1019.jpg" />
-<img src="/uploads/FT-Website-Screenshots-1018.jpg" />
+<img src="/uploads/FT-Website-Screenshots-1053.jpg" />
+<img src="/uploads/FT-Website-Screenshots-1049.jpg" />
 </div>
