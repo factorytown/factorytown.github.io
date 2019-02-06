@@ -13,15 +13,18 @@ layout: project
 
 When Karli from the band Windoe came to us to discuss potential tracks from her upcoming album, we gravitated toward this song. It's the lament of an artist trying to make it in the world while also trying to come to terms with the long-term game plan of what they are trying to accomplish, and how inevitably so many of us never meet our own ever-changing goals. It was a song we thought creatives, athletes, entrepreneurs, and artists would understand, and we tried to find a way to tell that story.
 <div class="gallery" data-columns="3">
-<img src="/uploads/.jpg" />
-<img src="/uploads/.jpg" />
-<img src="/uploads/.jpg" />
-<img src="/uploads/.jpg" />
-<img src="/uploads/.jpg" />
-<img src="/uploads/.jpg" />
-<img src="/uploads/" />\
-<img src="/uploads/.JPG" />
-
+<img src="/uploads/FT-Website-Screenshots-1021.jpg" />
+<img src="/uploads/FT-Website-Screenshots-1022.jpg" />
+<img src="/uploads/FT-Website-Screenshots-1023.jpg" />
+<img src="/uploads/FT-Website-Screenshots-1024.jpg" />
+<img src="/uploads/FT-Website-Screenshots-1025.jpg" />
+<img src="/uploads/FT-Website-Screenshots-1026.jpg" />
+<img src="/uploads/FT-Website-Screenshots-1027.jpg" />\
+<img src="/uploads/FT-Website-Screenshots-1028.JPG" />
+<img src="/uploads/FT-Website-Screenshots-1029.JPG" />
+<img src="/uploads/FT-Website-Screenshots-1030.JPG" />
+<img src="/uploads/FT-Website-Screenshots-1031.JPG" />
+<img src="/uploads/FT-Website-Screenshots-1032.JPG" />
 </div>
 
 Song written and performed by Karli Ingersoll<BR>
