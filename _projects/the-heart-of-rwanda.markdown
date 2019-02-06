@@ -22,10 +22,10 @@ Documentary was released in connection to a story we wrote and published with ac
 <img src="/uploads/FT-Website-Screenshots-1057.jpg" />
 <img src="/uploads/FT-Website-Screenshots-1058.jpg" />
 <img src="/uploads/FT-Website-Screenshots-1060.jpg" />
-<img src="/uploads/FT-Website-Screenshots-1014.jpg" />
-<img src="/uploads/FT-Website-Screenshots-1015.jpg" />
-<img src="/uploads/FT-Website-Screenshots-1016.jpg" />
-<img src="/uploads/FT-Website-Screenshots-1017.jpg" />
+<img src="/uploads/FT-Website-Screenshots-1061.jpg" />
+<img src="/uploads/FT-Website-Screenshots-1067.jpg" />
+<img src="/uploads/FT-Website-Screenshots-1066.jpg" />
+<img src="/uploads/FT-Website-Screenshots-1068.jpg" />
 <img src="/uploads/FT-Website-Screenshots-1019.jpg" />
 <img src="/uploads/FT-Website-Screenshots-1018.jpg" />
 </div>
