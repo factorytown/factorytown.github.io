@@ -16,12 +16,12 @@ In 2016 we accompanied Healing Hearts Northwest on their fifth trip to Rwanda wh
 Documentary was released in connection to a story we wrote and published with accompanying photos also gathered from the same trip. 
 
 <div class="gallery" data-columns="3">
-<img src="/uploads/FT-Website-Screenshots-.jpg" />
-<img src="/uploads/FT-Website-Screenshots-1008.jpg" />
-<img src="/uploads/FT-Website-Screenshots-1010.jpg" />
-<img src="/uploads/FT-Website-Screenshots-1011.jpg" />
-<img src="/uploads/FT-Website-Screenshots-1012.jpg" />
-<img src="/uploads/FT-Website-Screenshots-1013.jpg" />
+<img src="/uploads/FT-Website-Screenshots-1054.jpg" />
+<img src="/uploads/FT-Website-Screenshots-1055.jpg" />
+<img src="/uploads/FT-Website-Screenshots-1056.jpg" />
+<img src="/uploads/FT-Website-Screenshots-1057.jpg" />
+<img src="/uploads/FT-Website-Screenshots-1058.jpg" />
+<img src="/uploads/FT-Website-Screenshots-1060.jpg" />
 <img src="/uploads/FT-Website-Screenshots-1014.jpg" />
 <img src="/uploads/FT-Website-Screenshots-1015.jpg" />
 <img src="/uploads/FT-Website-Screenshots-1016.jpg" />
