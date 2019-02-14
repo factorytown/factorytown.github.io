@@ -1,5 +1,5 @@
 ---
-title: about
+title: About
 ---
 
 ## **WE TELL POWERFUL IMAGINATIVE STORIES IN THE UNIVERSAL LANGUAGE OF VISUAL ART.**
@@ -14,10 +14,10 @@ We're a dual-director studio. That just means we are collaborative in our effort
 
 ### WHERE WE ARE
 
-Factory Town is headquartered in the Pacific Northwest, specifically in Spokane, WA. It's one of the most beautiful areas we know. Come visit us sometime, we'd love to show you around and take you to pizza or something. 
+Factory Town is headquartered in the Pacific Northwest, specifically in Spokane, WA. It's one of the most beautiful areas we know. Come visit us sometime, we'd love to show you around and take you to pizza or something.
 
 ### HOW TO FIND US
 
-email  [hi@factory.town](mailto:'hi@factory.town')
+<a href="mailto:hi@factory.town?subject=From Factory Town Website">email  [hi@factory.town]</a>
 
 instagram [@factory.town](http://instagram.com/factory.town)
