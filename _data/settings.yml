@@ -8,15 +8,21 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'Projects'
-      url: '/'
+    - title: 'Film'
+      url: '#'
+    - title: 'Environment'
+      url: '#'
+    - title: 'Photography'
+      url: '#'   
+    - title: 'Design'
+      url: '#'               
     - title: 'About'
       url: '/about'
     - title: 'Contact'
       url: '/contact'
 
 footer_settings:
-  footer_tagline: 
+  footer_tagline:
 
 grid_settings:
   overlay_opacity: 0.8
@@ -60,10 +66,10 @@ social_settings:
 color_settings:
   background_color: '#2D2D2D'
   background_alt_color: '#2D2D2D'
-  text_dark_color: '#A0D2DB'
+  text_dark_color: '#939393'
   text_medium_color: '#E6E6E6'
-  text_light_color: '#A0D2DB'
-  accent_color: '#A0D2DB'
+  text_light_color: '#939393'
+  accent_color: '#939393'
   border_color: '#dddddd'
   overlay_background_color: '#E6E6E6'
   overlay_text_color: '#000000'
@@ -71,9 +77,9 @@ color_settings:
   error_color: '#D64541'
 
 font_settings:
-  font_embed: '<link href="https://fonts.googleapis.com/css?family=Nunito+Sans|Roboto+Mono" rel="stylesheet">'
-  title_font: '"Roboto Mono", monospace'
-  body_font: '"Roboto Mono", monospace'
+  font_embed: ' <link href="https://fonts.googleapis.com/css?family=Archivo+Narrow" rel="stylesheet">'
+  title_font: '"Archivo Narrow", sans-serif'
+  body_font: '"Archivo Narrow", sans-serif'
   regular_weight: 300
   bold_weight: 500
   site_title:
@@ -143,9 +149,9 @@ font_settings:
     letter_spacing: 0
     line_height: 1.6
   p:
-    small_size: 15
-    medium_size: 17
-    large_size: 19
+    small_size: 17
+    medium_size: 19
+    large_size: 22
     weight: 300
     letter_spacing: 0
     line_height: 1.6
