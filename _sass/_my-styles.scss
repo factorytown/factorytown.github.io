@@ -1,3 +1,13 @@
+/* 
+# hot pink: #ff0179
+# gray-blue: #A0D2DB
+# dark-dark gray: #2D2D2D
+# light gray (subheads): #939393
+# lightest gray (body text): 	#E6E6E6
+*/
+
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display+SC');
+
 // Main Navigation
 .menu__list {
 	text-transform: uppercase;
@@ -5,14 +15,12 @@
 
 .menu__list__item a:link, 
 .menu__list__item a:visited {
-	color: #ef0075;
+	color: #A0D2DB;
 }
 
 .menu__list__item a:hover {
-	color: white;
+	color: #ff0179;
 }
-
-
 
 // Footer
 footer {
@@ -22,5 +30,10 @@ footer {
 // Type
 h1,
 h2 {
-	color:  #ef0075 !important;
+	color:  #ff0179 !important;
+	font-family: 'Playfair Display SC', serif;
+}
+
+h3 {
+	color: #A0D2DB;
 }

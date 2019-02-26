@@ -77,9 +77,9 @@ color_settings:
   error_color: '#D64541'
 
 font_settings:
-  font_embed: ' <link href="https://fonts.googleapis.com/css?family=Archivo+Narrow" rel="stylesheet">'
-  title_font: '"Archivo Narrow", sans-serif'
-  body_font: '"Archivo Narrow", sans-serif'
+  font_embed: '  <link href="https://fonts.googleapis.com/css?family=M+PLUS+1p" rel="stylesheet"> '
+  title_font: ' "M PLUS 1p", sans-serif '
+  body_font: ' "M PLUS 1p", sans-serif '
   regular_weight: 300
   bold_weight: 500
   site_title:
@@ -151,7 +151,7 @@ font_settings:
   p:
     small_size: 17
     medium_size: 19
-    large_size: 22
+    large_size: 20
     weight: 300
     letter_spacing: 0
     line_height: 1.6
