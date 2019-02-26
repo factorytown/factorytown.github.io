@@ -1,0 +1,26 @@
+// Main Navigation
+.menu__list {
+	text-transform: uppercase;
+}
+
+.menu__list__item a:link, 
+.menu__list__item a:visited {
+	color: #ef0075;
+}
+
+.menu__list__item a:hover {
+	color: white;
+}
+
+
+
+// Footer
+footer {
+	text-align: center;
+}
+
+// Type
+h1,
+h2 {
+	color:  #ef0075 !important;
+}
