@@ -22,8 +22,10 @@ layout: default
 				</p>
 
 		</div> -->
-		
-		{% for project in site.projects %}
+
+
+		{% assign sorted_projects = site.projects | sort:"position" %}
+		{% for project in sorted_projects %}
 
 		<div class="listing-item">
 			
@@ -38,7 +40,7 @@ layout: default
 						<h2 class="listing-item__title">{{ project.title }}</h2>
 						<p class="listing-item__subtitle">{{ project.Sub-Title }}</p>
 						<p class="listing-item__subtitle">{% for category in project.categories %}
-								( <em>{{ category }}</em> )
+								(<em>{{ category }}</em>)
 							{% endfor %}</p>
 						
 					</div>
