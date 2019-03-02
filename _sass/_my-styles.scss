@@ -6,8 +6,6 @@
 # lightest gray (body text): 	#E6E6E6
 */
 
-@import url('https://fonts.googleapis.com/css?family=Playfair+Display+SC');
-
 // Main Navigation
 .menu__list {
 	text-transform: uppercase;
@@ -31,7 +29,8 @@ footer {
 h1,
 h2 {
 	color:  #ff0179 !important;
-	font-family: 'Playfair Display SC', serif;
+	font-family: 'Yeseva One', cursive;
+	letter-spacing: 0.1em;
 }
 
 h3 {
