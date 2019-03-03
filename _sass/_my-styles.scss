@@ -36,3 +36,71 @@ h2 {
 h3 {
 	color: #A0D2DB;
 }
+
+// Homepage Overlay w/ Animation
+#overlay {
+	background: rgba(0,0,0,.75);  
+  
+	/* stretch overlay to fill entire screen  */
+	position: absolute;
+	top: 0;
+	left: 0;
+	height: 100%;
+	width: 100%;
+	
+	/* vertical and center align with Flexbox */
+	// display: flex;
+	// justify-content: center;
+	// align-items: center;
+	// flex-wrap: wrap;
+
+	// Styling
+	padding: 4em 1em;
+  }
+
+#overlay p {
+	font-size: 115px; /* Some tweener fallback that doesn't look awful */ 
+	font-size: 8vw;  
+	font-family: "M PLUS 1p", sans-serif;
+	font-weight: 900;
+	line-height: 1em;
+	color: #ff017975;
+
+	// For typewriter effect
+	width: 100%;
+    margin: 0 auto;
+  
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+// Faux timing
+#overlay p:nth-child(1) {
+	animation: typewriter 1.5s steps(60) 1 normal both;
+}
+
+#overlay p:nth-child(2) {
+	animation: typewriter 1.5s .25s  steps(60) 1 normal both;
+}
+
+#overlay p:nth-child(3) {
+	animation: typewriter 1.5s .5s  steps(60) 1 normal both;
+}
+
+#overlay p:nth-child(4) {
+	animation: typewriter 1.5s .75s  steps(60) 1 normal both;
+}
+
+#overlay p:nth-child(5) {
+	animation: typewriter 1.5s 1s  steps(60) 1 normal both;
+}
+
+
+// Animation
+@keyframes typewriter{
+	from{
+		width: 0;
+	}
+	to{
+		width: 100%;}
+  }
