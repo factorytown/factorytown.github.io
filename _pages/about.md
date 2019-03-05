@@ -1,5 +1,5 @@
 ---
-title: About
+title: About Us
 ---
 
 ## **WE TELL POWERFUL IMAGINATIVE STORIES IN THE UNIVERSAL LANGUAGE OF VISUAL ART.**
