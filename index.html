@@ -3,10 +3,17 @@ title: Factory Town.
 layout: default
 ---
 
+<div id="overlay">
+		<p>WE TELL POWERFUL </p>
+		<p>IMAGINATIVE STORIES </p>
+		<p>IN THE UNIVERSAL</p> 
+		<p>LANGUAGE OF </p>
+		<p>VISUAL ART.</p>
+	</div>
+
 <section class="listing">
 
 	<div class="content-wrap listing-wrap">			
-
 
 		{% assign sorted_projects = site.projects | sort:"position" %}
 		{% for project in sorted_projects %}
@@ -16,7 +23,9 @@ layout: default
 			<a class="listing-item__link" href="{{ project.url }}">
 
 				<div class="listing-item__image">
+					
 					<img src="{{ project.Featured-Image  }}" alt="{{ project.title }}">
+				
 				</div>
 
 				<div class="listing-item__content listing-item__content--{{ site.data.settings.grid_settings.content_alignment }}">
@@ -35,6 +44,39 @@ layout: default
 		</div>
 
 		{% endfor %}
+
+		<div class="listing-item" data-category="film">
+			
+			<a class="listing-item__link" href="#">
+
+				<div class="listing-item__image">
+					
+					<video poster="https://s3-us-west-2.amazonaws.com/s.cdpn.io/4273/fashion.jpg" playsinline autoplay muted loop>
+						
+						<source src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/4273/fashion.webm" type="video/webm">
+						<source src="http://thenewcode.com/assets/videos/fashion.mp4" type="video/mp4">
+						
+					</video>
+				
+				</div>
+
+				<div class="listing-item__content listing-item__content--bottom">
+					<div class="listing-item__info">
+						<h2 class="listing-item__title">Sample Project</h2>
+						<p class="listing-item__subtitle">Project with Video</p>
+						<p class="listing-item__subtitle">
+								(<em>film</em>)
+							</p>
+						
+					</div>
+				</div>
+
+			</a>
+
+		</div>
+
+				
+
 
 	</div>
 

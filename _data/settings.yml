@@ -9,13 +9,13 @@ header_settings:
 menu_settings:
   menu_items:
     - title: 'Film'
-      url: '#'
+      url: '/film'
     - title: 'Environment'
-      url: '#'
+      url: '/environment'
     - title: 'Photography'
-      url: '#'   
+      url: '/photography'   
     - title: 'Design'
-      url: '#'               
+      url: '/design'               
     - title: 'About'
       url: '/about'
     - title: 'Contact'
