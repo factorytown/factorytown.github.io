@@ -60,20 +60,15 @@ h3 {
 	width: 100%;
 	z-index: 2;
 	
-	/* vertical and center align with Flexbox */
-	// display: flex;
-	// justify-content: center;
-	// align-items: center;
-	// flex-wrap: wrap;
 
 	// Styling
 	padding: 4em 1em;
-  }
+}
 
 #overlay p {
 	font-size: 115px; /* Some tweener fallback that doesn't look awful */ 
 	font-size: 8.2vw;  
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Yeseva One', cursive;
 	font-weight: 900;
 	line-height: 1em;
 	color: #ff017975;
@@ -131,5 +126,5 @@ video {
 // Listing Items
 .listing-item h2 {
 	color:  #ff0179 !important;
-	font-size: 2em !important;
+	font-size: 2em!important;
 }

@@ -1,6 +1,6 @@
 
 
-    // Close homepage overlay
+// Close homepage overlay
 $('#overlay').on('click', function(){
 
     $('#overlay').fadeOut('slow');
