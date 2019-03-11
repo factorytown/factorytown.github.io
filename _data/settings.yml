@@ -8,14 +8,14 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'Film'
+    - title: 'Film' 
       url: '/film'
-    - title: 'Environment'
-      url: '/environment'
-    - title: 'Photography'
+    - title: 'Photo'
       url: '/photography'   
     - title: 'Design'
-      url: '/design'               
+      url: '/design'        
+    - title: 'Enviro'
+      url: '/environment'    
     - title: 'About'
       url: '/about'
 
