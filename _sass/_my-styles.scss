@@ -6,6 +6,11 @@
 # lightest gray (body text): 	#E6E6E6
 */
 
+// Global
+body {
+	background: #000;
+}
+
 // Main Navigation
 .menu__list {
 	text-transform: uppercase;
@@ -32,11 +37,11 @@ h1, h2 {
 }
 
 h1 {
-	color:  #fff !important;
+	color:  #ff0179 !important;
 }
 
 h2 {
-	color:  #ff0179 !important;
+	color:  #fff !important;
 }
 
 h3 {
@@ -121,4 +126,10 @@ video {
     height: 100%;
     object-fit: cover;
     object-position: center;
+}
+
+// Listing Items
+.listing-item h2 {
+	color:  #ff0179 !important;
+	font-size: 2em !important;
 }
