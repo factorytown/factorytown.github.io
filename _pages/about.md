@@ -4,9 +4,7 @@ title: CONTACT
 
 ### WHAT
 
-## We see art as our common language and stories as our currency. 
-
-We created our agency on the idea that stories are the most valuable commodity we have. We work closely with brands, non-profits, and artists to bring together their their purpose and vision. 
+## We see art as our common language and stories as our currency. We work closely with brands, non-profits, and artists to bring together their their purpose and vision. 
 <BR>
 
 ### WHO
