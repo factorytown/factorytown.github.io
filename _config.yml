@@ -41,19 +41,9 @@ defaults:
 site: Factory Town
 footer: This is the footer text.
 site-intro-text: |-
-  WE TELL POWERFUL
-
-
-  IMAGINATIVE STORIES
-
-
-  THE UNIVERSAL
-
-
-  LANGUAGE OF
-
-
-  VVVVVISUAL ART.
+  Line 1
+  Line 2
+  Line 3
 markdown: kramdown
 kramdown:
   input: GFM
