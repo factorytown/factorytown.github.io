@@ -1,5 +1,5 @@
 ---
-title: About Us
+title: CONTACT
 ---
 
 ### WHAT WE BELIEVE
@@ -16,6 +16,10 @@ Factory Town is headquartered in the Pacific Northwest, specifically in Spokane,
 
 ### HOW TO FIND US
 
-<a href="mailto:hi@factory.town?subject=From Factory Town Website" target="_top">email  [hi@factory.town]</a>
+We're not that into forms, and we figure you know how you like to connect. So drop us a line, call, text, tweet, insta direct. We'll get back to you. 
+
+email <a href="mailto:hi@factory.town?subject=There's something we want to say..." target="_top">hi@factory.town</a>
 
 instagram [@factory.town](http://instagram.com/factory.town)
+
+twitter @factory.town
