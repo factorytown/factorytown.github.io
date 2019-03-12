@@ -1,5 +1,5 @@
 ---
-title: Lavoy
+title: LAVOY
 date: 2018-12-27 23:55:00 -08:00
 categories:
 - film
