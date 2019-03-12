@@ -42,8 +42,12 @@ site: Factory Town
 footer: This is the footer text.
 site-intro-text: |-
   Line 1
+
   Line 2
+
   Line 3
+
+  Line 4
 markdown: kramdown
 kramdown:
   input: GFM
