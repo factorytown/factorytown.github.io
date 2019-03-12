@@ -4,11 +4,11 @@ title: CONTACT
 
 ## WHAT WE BELIEVE
 
-### We're a creative agency founded on the idea that stories are the most valuable commodity we have. We work closely with brands and non-profits to understand their purpose and vision and together bring it to life through memorable storytelling. We see visual art as our common language and stories as our currency.
+#### We're a creative agency founded on the idea that stories are the most valuable commodity we have. We work closely with brands and non-profits to understand their purpose and vision and together bring it to life through memorable storytelling. We see visual art as our common language and stories as our currency.
 
 ## WHO WE ARE
 
-### We're a dual-director studio. That just means we are collaborative in our efforts to help you get your message across effectively and artistically. We work with our hands to make cinema, photography and imaginative visuals. We like to play in fiction and non-fiction with the goal of solving puzzles.
+#### We're a dual-director studio. That just means we are collaborative in our efforts to help you get your message across effectively and artistically. We work with our hands to make cinema, photography and imaginative visuals. We like to play in fiction and non-fiction with the goal of solving puzzles.
 
 ## WHERE WE ARE
 
@@ -16,9 +16,9 @@ title: CONTACT
 
 ## HOW TO FIND US
 
-### We're not that into forms, and we figure you know how you like to connect. So drop us a line, a tweet, an insta direct or telegram. We'll get back to you.
+##### We're not that into forms, and we figure you know how you like to connect. So drop us a line, a tweet, an insta direct or telegram. We'll get back to you.
 
-email <a href="mailto:hi@factory.town?subject=There's something we want to say..." target="_top">hi@factory.town</a>
+#### email <a href="mailto:hi@factory.town?subject=There's something we want to say..." target="_top">hi@factory.town</a>
 
 instagram [@factory.town](http://instagram.com/factory.town)
 
