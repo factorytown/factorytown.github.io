@@ -39,8 +39,9 @@ defaults:
     Sub-Title: 
     Featured-Image: 
 site: Factory Town
-footer: stealing is mean | do the right thing
-site-intro-text: This is the Site Intro.
+footer: This is the footer text.
+site-intro-text: "WE TELL POWERFUL \nIMAGINATIVE STORIES \nTHE UNIVERSAL\nLANGUAGE
+  OF \nVISUAL ART."
 markdown: kramdown
 kramdown:
   input: GFM
