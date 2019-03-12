@@ -40,8 +40,18 @@ defaults:
     Featured-Image: 
 site: Factory Town
 footer: This is the footer text.
-site-intro-text: "WE TELL POWERFUL \nIMAGINATIVE STORIES \nTHE UNIVERSAL\nLANGUAGE
-  OF \nVISUAL ART."
+site-intro-text: |-
+  WE TELL POWERFUL
+
+
+  IMAGINATIVE STORIES
+
+
+  THE UNIVERSAL
+
+  LANGUAGE OF
+
+  VVVVVISUAL ART.
 markdown: kramdown
 kramdown:
   input: GFM
