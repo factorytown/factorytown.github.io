@@ -4,8 +4,7 @@ title: CONTACT
 
 ## WHAT WE BELIEVE
 
-### We're a creative agency founded on the idea that stories are the most valuable commodity we have. We work closely with brands, non-profits, and artists to bring together their their purpose and vision. 
-We see visual art as our common language and stories as our currency.
+### We're a creative agency founded on the idea that stories are the most valuable commodity we have. We work closely with brands, non-profits, and artists to bring together their their purpose and vision. We see visual art as our common language and stories as our currency.
 
 ## WHO WE ARE
 
