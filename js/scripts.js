@@ -1,11 +1,5 @@
+$(document).on('click', '#overlay', function(){
 
-
-// Close homepage overlay
-$('#overlay').on('click', function(){
-
-    $('#overlay').fadeOut('slow');
+    $('#overlay').hide();
     console.log('OK');
-
 });
-
-
