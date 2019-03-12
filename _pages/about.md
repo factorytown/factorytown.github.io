@@ -20,6 +20,8 @@ title: CONTACT
 <BR>
 <BR>
 
-# email <a href="mailto:hi@factory.town?subject=There's something we want to say..." target="_top">hi@factory.town</a> | # instagram [@factory.town](http://instagram.com/factory.town)
+# email <a href="mailto:hi@factory.town?subject=There's something we want to say..." target="_top">hi@factory.town</a>
+
+ # instagram [@factory.town](http://instagram.com/factory.town)
 
 # twitter @thefactorytown
