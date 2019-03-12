@@ -17,6 +17,8 @@ title: CONTACT
 ### HOW TO FIND US 
 
 ## We hate forms too, and we figure you know how you like to connect. So drop us a line, a tweet, an insta direct or telegram. We'll get back to you.
+<BR>
+<BR>
 
 # email <a href="mailto:hi@factory.town?subject=There's something we want to say..." target="_top">hi@factory.town</a> | # instagram [@factory.town](http://instagram.com/factory.town)
 
