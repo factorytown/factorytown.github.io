@@ -39,8 +39,8 @@ defaults:
     Sub-Title: 
     Featured-Image: 
 site: Factory Town
-Footer: This is the footer text.
-Site Intro: This is the Site Intro.
+footer: This is the footer text.
+site-intro-text: This is the Site Intro.
 markdown: kramdown
 kramdown:
   input: GFM
