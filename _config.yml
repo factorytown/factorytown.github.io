@@ -41,15 +41,15 @@ defaults:
 site: Factory Town
 footer: This is the footer text.
 site-intro-text: |-
-  Line 1
+  WE TELL POWERFUL
   </br>
-  Line 2
+  IMAGINATIVE STORIES
   </br>
-  Line 3
+  IN THE UNIVERSAL
   </br>
-  Line 4
+  LANGUAGE OF
   </br>
-  Line 5
+  VISUAL ART
 markdown: kramdown
 kramdown:
   input: GFM
