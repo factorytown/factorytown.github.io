@@ -139,3 +139,13 @@ video {
 	color:  #ff0179 !important;
 	font-size: 2em!important;
 }
+
+// Single Project Overlay
+.listing-item__content {
+	background: none;	
+}
+
+.listing-item__content--bottom {
+	align-items: center;
+	justify-content: center;
+}
