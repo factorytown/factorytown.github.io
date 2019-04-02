@@ -77,7 +77,9 @@ h3 {
 	font-family: 'Yeseva One', cursive;
 	font-weight: 900;
 	line-height: 1em;
-	color: #ff017975;
+	color: transparent;
+	-webkit-text-stroke: 2px white;
+	text-stroke: 2px white;
 
 	// For typewriter effect
 	width: 100%;
