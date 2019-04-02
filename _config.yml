@@ -41,14 +41,16 @@ defaults:
 site: Factory Town - A Dual Director Studio
 footer: "stealing is mean  |  stay in school  |  call your mom  | keep your promises
   \n |  hi@factorytown"
-site-intro-text: |
+site-intro-text: |-
   WE TELL POWERFUL
   </br>
   IMAGINATIVE STORIES
   </br>
   IN THE UNIVERSAL
   </br>
-  LANGUAGE OF VISUAL ART.
+  LANGUAGE OF \
+  </br>\
+  VISUAL ART.
   </br>
 markdown: kramdown
 kramdown:
