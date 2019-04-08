@@ -6,6 +6,7 @@ categories:
 position: 3
 Sub-Title: For Fun
 Featured-Image: "/uploads/CoolPinkM.jpg"
+Design Images: "/uploads/CoolPinkM.jpg"
 ---
 
-Playing with fonts, we put together a series of graphical interpretations of classic lyrics. Using old and new methods, we were able to find textures that are difficult to duplicate digitally. 
+Playing with fonts, we put together a series of graphic interpretations of classic lyrics. Using old and new methods, we were able to find textures that are difficult to duplicate digitally.
