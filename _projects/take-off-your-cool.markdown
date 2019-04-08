@@ -13,3 +13,5 @@ Playing with fonts, we put together a series of graphic interpretations of class
 
 <div class="gallery" data-columns="3">
 <img src="/uploads/CoolPinkM.jpg" />
+
+</div>
