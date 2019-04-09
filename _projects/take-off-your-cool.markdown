@@ -12,8 +12,6 @@ We digitally remixed these old skool lyrics by sampling analog materials, contem
 
 
 <div class="gallery" data-columns="3">
-<img src="/uploads/Moon2.jpg" />
-<img src="/uploads/Moon.jpg" />
 <img src="/uploads/CoolPinkM.jpg" />
 <img src="/uploads/CoolBlue.png" />
 </div>
