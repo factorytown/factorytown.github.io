@@ -36,8 +36,9 @@ defaults:
     type: projects
   values:
     layout: project
-    Sub-Title: 
-    Featured-Image: 
+    Sub-Title:
+    Featured-Image:
+    Video-Teaser-File: 
 site: Factory Town - A Dual Director Studio
 footer: "stealing is mean  |  stay in school  |  call your mom  | keep your promises
   \n |  hi@factorytown"
