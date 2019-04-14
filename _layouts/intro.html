@@ -63,7 +63,7 @@ video {
 <body>
 
     <div class="video-container">
-    <video playsinline autoplay muted loop>
+    <video id="myvid" autoplay muted>
             
         <source src="intro.mp4" type="video">
         <source src="intro.webm" type="video/webm">
@@ -72,9 +72,22 @@ video {
 
 </div>
 
-<div class="enter">
-    <p><a href="/projects">enter site</a></p>
-</div>
+
+
+<script>
+
+    // Set element
+const video = document.getElementById('myvid');
+
+// Listen for end
+video.addEventListener('ended', function() {
+   
+    // Go to URL
+    window.location.href = '/projects';
+
+});    
+
+</script>
 
 </body>
 </html>
