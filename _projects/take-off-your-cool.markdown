@@ -6,6 +6,7 @@ categories:
 position: 3
 Sub-Title: For Fun
 Featured-Image: "/uploads/CoolPinkM.jpg"
+Video-Teaser-File: "/uploads/letters.mp4"
 ---
 
 We digitally remixed these old skool lyrics by sampling analog materials, contemporary fonts, and algorithmic filters. 
