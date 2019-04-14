@@ -5,6 +5,7 @@ tags:
 - reel
 - cinematography
 Sub-Title: Our first years
+Featured-Image: "/uploads/Captusre.JPG"
 ---
 
 <iframe src="https://player.vimeo.com/video/329743816" width="640" height="268" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
