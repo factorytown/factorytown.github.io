@@ -4,7 +4,7 @@ date: 2018-12-28 00:01:00 -08:00
 categories:
 - film
 - photography
-position: 5
+position: 7
 Sub-Title: Healing Hearts Northwest
 Featured-Image: "/uploads/Rwanda2.jpg"
 ---
