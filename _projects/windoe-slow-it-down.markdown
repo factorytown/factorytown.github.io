@@ -6,10 +6,9 @@ categories:
 position: 1
 Sub-Title: 'Official Music Video '
 Featured-Image: "/uploads/windoeslow22.jpg"
-Video-Teaser-File: 
 layout: project
 ---
 
-<iframe src="https://player.vimeo.com/video/303639403" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/327142954" width="640" height="346" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 We dug Windoe's new album so much we told her we wanted to do a two-for-one deal, This was the first song she picked, and we got down to making mountains. 
