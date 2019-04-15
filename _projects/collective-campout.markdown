@@ -2,7 +2,8 @@
 title: Collective Campout
 date: 2019-04-14 18:15:00 -07:00
 position: 11
-Video-Teaser-File: "/uploads/CollectiveCampout-Teaser.mp4"
+Featured-Image: "/uploads/Collectivecampout-Title.JPG"
+Video-Teaser-File: "/uploads/CollectiveCampout-Teaser-e83168.mp4"
 ---
 
 <iframe src="https://player.vimeo.com/video/287886886" width="640" height="338" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
