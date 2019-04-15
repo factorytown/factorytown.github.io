@@ -6,6 +6,7 @@ categories:
 position: 3
 Sub-Title: Chicago Official Music Video
 Featured-Image: "/uploads/Lavoy4JPG.JPG"
+Video-Teaser-File: "/uploads/Lavoy-Chicago-Short.mp4"
 ---
 
 <iframe src="https://player.vimeo.com/video/265655288" width="640" height="337" frameborder="0" allowfullscreen></iframe>
