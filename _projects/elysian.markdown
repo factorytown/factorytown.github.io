@@ -6,6 +6,7 @@ categories:
 position: 8
 Sub-Title: Being a Good Neighbor
 Featured-Image: "/uploads/ElysianBrewery-Mural-8304-3a336e.jpg"
+Video-Teaser-File: "/uploads/Elysian-Tease.mov"
 ---
 
 <iframe src="https://player.vimeo.com/video/330397585" width="640" height="480" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
