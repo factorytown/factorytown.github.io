@@ -7,6 +7,7 @@ categories:
 position: 7
 Sub-Title: Healing Hearts Northwest
 Featured-Image: "/uploads/Rwanda2.jpg"
+Video-Teaser-File: "/uploads/RwandaHearts-Tease.mov"
 ---
 
 <iframe src="https://player.vimeo.com/video/303786933" width="640" height="337" frameborder="0" allowfullscreen></iframe>
