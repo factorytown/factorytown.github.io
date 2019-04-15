@@ -6,6 +6,7 @@ categories:
 position: 6
 Sub-Title: Official Music Video
 Featured-Image: "/uploads/WindoeStandingSTill-0ec724.JPG"
+Video-Teaser-File: "/uploads/Windoe-StandingStill-Short.mp4"
 layout: project
 ---
 
