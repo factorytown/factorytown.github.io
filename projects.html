@@ -332,10 +332,17 @@ LANGUAGE OF VISUAL ART.
 				<div class="listing-item__image">
 					
 					<img src="{{ project.Featured-Image  }}" alt="{{ project.title }}">
-				
+				 
 				</div>
 
 				<div class="listing-item__content listing-item__content--{{ site.data.settings.grid_settings.content_alignment }}">
+					
+					<video autoplay muted loop>
+
+						<source src="{{ project.Video-Teaser-File }}" type="video/mp4">
+
+					</video>
+					
 					<div class="listing-item__info">
 						<h2 class="listing-item__title">{{ project.title }}</h2>						
 					</div>

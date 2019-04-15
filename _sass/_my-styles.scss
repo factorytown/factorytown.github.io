@@ -76,7 +76,7 @@ h3 {
 	font-size: 8.2vw;  
 	font-family: 'Yeseva One', cursive;
 	font-weight: 900;
-	line-height: 1em;
+	line-height: .75em;
 	color: transparent;
 	-webkit-text-stroke: 2px white;
 	text-stroke: 2px white;
@@ -112,9 +112,11 @@ h3 {
 video { 
     width: 100%;
     height: 100%;
-    object-fit: cover;
-    object-position: center;
+	object-fit: cover;
+	position: absolute;
 }
+
+
 
 // Listing Items
 .listing-item h2 {
