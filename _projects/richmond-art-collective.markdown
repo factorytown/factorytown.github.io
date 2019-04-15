@@ -1,5 +1,5 @@
 ---
-title: RICHMOND ART COLLECTIVE
+title: Richmond Art Collective
 date: 2019-02-06 02:09:00 -08:00
 categories:
 - film
