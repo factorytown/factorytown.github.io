@@ -1,7 +1,7 @@
 ---
 title: Collective Campout
 date: 2019-04-14 18:15:00 -07:00
-position: 10
+position: 11
 Video-Teaser-File: "/uploads/CollectiveCampout-Teaser.mp4"
 ---
 
