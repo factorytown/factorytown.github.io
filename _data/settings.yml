@@ -12,10 +12,6 @@ menu_settings:
       url: '/film'
     - title: 'Photo'
       url: '/photography'   
-    - title: 'Design'
-      url: '/design'        
-    - title: 'Enviro'
-      url: '/environment'    
     - title: 'About'
       url: '/about'
 
