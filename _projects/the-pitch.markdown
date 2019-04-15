@@ -6,6 +6,7 @@ categories:
 position: 5
 Sub-Title: Downtown Spokane Partnership
 Featured-Image: "/uploads/Pitch8-9b03ee.JPG"
+Video-Teaser-File: "/uploads/ThePitch-ShortTeaser.mp4"
 ---
 
 <iframe src="https://player.vimeo.com/video/252648997" width="640" height="337" frameborder="0" allowfullscreen></iframe>
