@@ -8,10 +8,6 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'Film' 
-      url: '/film'
-    - title: 'Photo'
-      url: '/photography'   
     - title: 'About'
       url: '/about'
 
