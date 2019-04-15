@@ -6,6 +6,7 @@ categories:
 position: 13
 Sub-Title: Film Festival Bumper Series
 Featured-Image: "/uploads/SpIFF-7ccb5c.JPG"
+Video-Teaser-File: "/uploads/Spiff-Tease.mov"
 ---
 
 <iframe src="https://player.vimeo.com/video/315383242" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
