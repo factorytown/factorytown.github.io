@@ -15,10 +15,9 @@ Every city's got a DOT; luckily New York's is an arts forwards organization. We 
 <div class="gallery" data-columns="3">
 <img src="/uploads/NY-DOT-Mural-EllenPicken-1001.jpg" />
 <img src="/uploads/NY-DOT-Mural-EllenPicken-1056.jpg" />
-<img src="/uploads/NY-DOT-Mural-EllenPicken-1003.jpg" />
 <img src="/uploads/NY-DOT-Mural-EllenPicken-1010.jpg" />
 <img src="/uploads/NY-DOT-Mural-EllenPicken-1054.jpg" />
 <img src="/uploads/NYC-DOT-Mural-0130x.jpg" />
 <img src="/uploads/NY-DOT-Mural-EllenPicken-1321.jpg" />
-<img src="/uploads/NYC-DOT-Mural-0119x.jpg" />
+
 </div>
