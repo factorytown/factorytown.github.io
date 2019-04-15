@@ -6,6 +6,7 @@ categories:
 position: 12
 Sub-Title: Empowerment through song
 Featured-Image: "/uploads/ImpandaRwanda.jpg"
+Video-Teaser-File: "/uploads/Impanda-Tease.mov"
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TjWqFQDQmQ4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
