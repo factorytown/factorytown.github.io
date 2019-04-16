@@ -27,8 +27,8 @@ title: ABOUT
 <BR>
 <BR>
 
-# email hi@factory.town
+# email [hi@factory.town](hi@factory.town)
 
 # instagram [@factory.town](http://instagram.com/factory.town)
 
-# phone 509-720-7252
+# phone 509.720.7252
