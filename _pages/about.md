@@ -1,5 +1,5 @@
 ---
-title: CONTACT
+title: ABOUT
 ---
 
 ### WHAT
