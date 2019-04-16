@@ -27,7 +27,7 @@ title: ABOUT
 <BR>
 <BR>
 
-# email [hi@factory.town](hi@factory.town)
+# email <a href="mailto:hi@factory.town" class="js-no-ajax">hi@factory.town</a>
 
 # instagram [@factory.town](http://instagram.com/factory.town)
 
