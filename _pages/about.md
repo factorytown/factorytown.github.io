@@ -27,6 +27,4 @@ title: ABOUT
 
 # instagram [@factory.town](http://instagram.com/factory.town)
 
-# twitter @thefactorytown
-
 # phone 509.720.7252
