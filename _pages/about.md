@@ -23,7 +23,7 @@ title: ABOUT
 <BR>
 <BR>
 
-# email <a href="mailto:hi@factory.town?subject=There's something we want to say..." target="_top">hi@factory.town</a>
+# email <A HREF="mailto:hi@factory.town">hi@factory.town</A>
 
 # instagram [@factory.town](http://instagram.com/factory.town)
 
