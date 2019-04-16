@@ -22,7 +22,7 @@ title: ABOUT
 
 ### HOW
 
-## We hate forms too. So drop us a line, a tweet, an insta direct, a telegram or just #hashtag us. We'll get back to you.
+## We hate forms too. So drop us a line, an insta direct, a telegram or just #hashtag us. We'll get back to you.
 
 <BR>
 <BR>
