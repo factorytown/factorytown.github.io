@@ -78,6 +78,11 @@ video {
 
 <script>
 
+if (screen.width <= 768) {
+    window.location.href = "/mob-projects";
+} else {
+
+
     // Set element
 const video = document.getElementById('myvid');
 
@@ -96,6 +101,11 @@ video.addEventListener('click', function() {
    window.location.href = '/projects';
 
 });
+
+}
+
+
+
 
 
 

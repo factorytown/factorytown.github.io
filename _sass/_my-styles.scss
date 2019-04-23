@@ -145,3 +145,14 @@ video {
 img.header__logo__img {
 	width: auto !important;
 }
+
+
+// Mobile Workarounds
+.mobile .listing-item__info {
+	opacity: 1;
+}
+
+.mobile .listing-item__content {
+	opacity: 1;
+	visibility: visible;
+}
