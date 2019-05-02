@@ -1,5 +1,5 @@
 // Overlay
-$(document).on('click touch', '#overlay', function(){
+$(document).on('click', '#overlay', function(){
 
     $('#overlay').hide();
     console.log('OK');
