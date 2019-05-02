@@ -3,3 +3,4 @@ _site
 .jekyll-metadata
 /images/.DS_Store
 /.DS_Store
+/factory-town.code-workspace
