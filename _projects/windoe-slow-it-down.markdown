@@ -7,9 +7,8 @@ Video-Teaser-File: "/uploads/Windoe-SlowDown-Tease.mov"
 layout: project
 ---
 
-<h2>
 We dug Windoe's new album so much we made two videos. This was the first song we chose together. We loved it for it's spaciousness and it's commentary on the artist struggle. After a few dozen listens, we got down to making mountains. 
-</h2>
+
 
 <iframe src="https://player.vimeo.com/video/327142954" width="640" height="346" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
