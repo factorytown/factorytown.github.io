@@ -19,7 +19,7 @@ We dug Windoe's new album so much we made two videos. This was the first song we
 Music by Windoe 
 Produced by Caleb Ingersoll
 
-Starring Julie Connolly and Jenna Norman-Rings
+Starring Julie Connolly and Jenna Norman-Rings as swimmers
 
 [https://windoe.bandcamp.com/music](https://windoe.bandcamp.com/music)
 
