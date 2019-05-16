@@ -11,5 +11,5 @@ Video-Teaser-File: "/uploads/Reel19-Tease.mov"
 
 Across three continents in the past year witnessing countless hours of moments, we cannot wait to see what's next.
 
-<iframe src="https://player.vimeo.com/video/329743816" width="640" height="268" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/329743816" width="full" height="full" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
