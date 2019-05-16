@@ -2,7 +2,6 @@
 title: Lavoy
 date: 2018-12-27 23:55:00 -08:00
 position: 3
-Sub-Title: Chicago Official Music Video
 Featured-Image: "/uploads/Lavoy4JPG.JPG"
 Video-Teaser-File: "/uploads/Lavoy-Chicago-Short.mp4"
 ---
