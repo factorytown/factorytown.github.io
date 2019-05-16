@@ -6,6 +6,6 @@ Featured-Image: "/uploads/Richmond-Thumbnail.jpg"
 Video-Teaser-File: "/uploads/RAC-Tease.mov"
 ---
 
-<iframe src="https://player.vimeo.com/video/296245408" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/296245408" width="100%" height="auto" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 Richmond approached us to help them build awareness around their collective. 
