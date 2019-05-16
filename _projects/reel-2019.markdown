@@ -1,9 +1,6 @@
 ---
 title: Reel | 2019
 date: 2019-04-14 14:24:00 -07:00
-tags:
-- reel
-- cinematography
 position: 0
 Featured-Image: "/uploads/Captusre.JPG"
 Video-Teaser-File: "/uploads/Reel19-Tease.mov"
