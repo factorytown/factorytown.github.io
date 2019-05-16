@@ -19,8 +19,8 @@ Every city's got a DOT; luckily New York's is an arts forwards organization. We 
 <img src="/uploads/NYC-DOT-Mural-0130x.jpg" />
 <img src="/uploads/NY-DOT-Mural-EllenPicken-1321.jpg" />
 
-
-Production: NYC Department of Transportation
+<BR>
+Production: NYC Department of Transportation<BR>
 Mural Design: Ellen Picken
 
 </div>
