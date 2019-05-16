@@ -2,7 +2,6 @@
 title: Richmond Art Collective
 date: 2019-02-06 02:09:00 -08:00
 position: 2
-Sub-Title: Funding The Arts
 Featured-Image: "/uploads/Richmond-Thumbnail.jpg"
 Video-Teaser-File: "/uploads/RAC-Tease.mov"
 ---
