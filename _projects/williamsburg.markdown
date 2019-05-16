@@ -10,9 +10,6 @@ Every city's got a DOT; luckily New York's is an arts forwards organization. We 
 
 <iframe src="https://player.vimeo.com/video/304025821" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-Production: NYC Department of Transportation
-Mural Design: Ellen Picken
-
 
 <div class="gallery" data-columns="3">
 <img src="/uploads/NY-DOT-Mural-EllenPicken-1001.jpg" />
@@ -21,5 +18,9 @@ Mural Design: Ellen Picken
 <img src="/uploads/NY-DOT-Mural-EllenPicken-1054.jpg" />
 <img src="/uploads/NYC-DOT-Mural-0130x.jpg" />
 <img src="/uploads/NY-DOT-Mural-EllenPicken-1321.jpg" />
+
+
+Production: NYC Department of Transportation
+Mural Design: Ellen Picken
 
 </div>
