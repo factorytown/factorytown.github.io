@@ -4,7 +4,6 @@ date: 2019-02-04 15:18:00 -08:00
 categories:
 - film
 position: 1
-Sub-Title: 'Official Music Video '
 Featured-Image: "/uploads/windoeslow22.jpg"
 Video-Teaser-File: "/uploads/Windoe-SlowDown-Tease.mov"
 layout: project
