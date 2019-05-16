@@ -7,11 +7,11 @@ Video-Teaser-File: "/uploads/Windoe-SlowDown-Tease.mov"
 layout: project
 ---
 
-We dug Windoe's new album so much we made two videos. This was the first song we chose together. We loved it for it's spaciousness and it's commentary on the artist struggle. After a few dozen listens, we got down to making mountains. 
+We dug Windoe's new album so much we made two videos. This was the first song we chose together. We loved it for it's spaciousness and it's commentary on the artist struggle. After a few dozen listens, we got down to making mountains.
 
 <BR><BR>
 
-<iframe src="https://player.vimeo.com/video/327142954" width="100%" height=auto frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/327142954" width="100%" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 <BR>
 <BR>
@@ -24,6 +24,6 @@ Starring Julie Connolly and Jenna Norman-Rings as swimmers<BR>
 [https://windoe.bandcamp.com/music](https://windoe.bandcamp.com/music)<BR>
 <BR>
 Producer: Ellen Picken<BR>
-DOP + Editor: Rajah Bose<BR>
-Directed by Rajah + Ellen<BR>
+DOP \+ Editor: Rajah Bose<BR>
+Directed by Rajah \+ Ellen<BR>
 Production Company: Factory Town<BR>
