@@ -11,7 +11,7 @@ We dug Windoe's new album so much we made two videos. This was the first song we
 <h3>
 <BR><BR>
 
-<iframe src="https://player.vimeo.com/video/327142954" width="640" height="346" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/327142954" width="100%" height="auto" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 <BR>
 <BR>
