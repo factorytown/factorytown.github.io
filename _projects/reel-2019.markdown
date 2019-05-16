@@ -9,7 +9,7 @@ Video-Teaser-File: "/uploads/Reel19-Tease.mov"
 Across three continents in the past year witnessing countless hours of moments, we cannot wait to see what's next.
 
 <iframe src="https://player.vimeo.com/video/329743816" width="640" height="268" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
+<div class="gallery" data-columns="3">
 ![Screen Shot 2019-05-16 at 1.46.14 PM.png](/uploads/Screen%20Shot%202019-05-16%20at%201.46.14%20PM.png)
 ![Screen Shot 2019-05-16 at 1.43.40 PM.png](/uploads/Screen%20Shot%202019-05-16%20at%201.43.40%20PM.png)
 ![Screen Shot 2019-05-16 at 1.45.30 PM.png](/uploads/Screen%20Shot%202019-05-16%20at%201.45.30%20PM.png)
@@ -23,7 +23,7 @@ Across three continents in the past year witnessing countless hours of moments, 
 
 
 
-
+</div>
 
 
 
