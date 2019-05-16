@@ -20,11 +20,8 @@ Richmond approached us to help them build awareness around their collective.
 <img src="/uploads/FactoryTown_RichmondArtCollective-VideoStills1009.png" />
 <img src="/uploads/FactoryTown_RichmondArtCollective-VideoStills1010.png" />
 <img src="/uploads/FactoryTown_RichmondArtCollective-VideoStills1011.png" />
-<img src="/uploads/FactoryTown_RichmondArtCollective-VideoStills1012.png" />
-<img src="/uploads/FactoryTown_RichmondArtCollective-VideoStills1014.png" />
 <img src="/uploads/FactoryTown_RichmondArtCollective-VideoStills1015.png" />
 <img src="/uploads/FactoryTown_RichmondArtCollective-VideoStills1016.png" />
-<img src="/uploads/FactoryTown_RichmondArtCollective-VideoStills1017.png" />
 <img src="/uploads/FactoryTown_RichmondArtCollective-VideoStills1018.png" />
 <img src="/uploads/FactoryTown_RichmondArtCollective-VideoStills1019.png" />
 <img src="/uploads/FactoryTown_RichmondArtCollective-VideoStills1020.png" />
