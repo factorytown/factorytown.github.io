@@ -7,9 +7,9 @@ Video-Teaser-File: "/uploads/Windoe-StandingStill-Short.mp4"
 layout: project
 ---
 
-<iframe src="https://player.vimeo.com/video/288082837" width="640" height="337" frameborder="0" allowfullscreen></iframe>
-
 When Karli from the band Windoe came to us to discuss potential tracks from her upcoming album, we gravitated toward this song. It's the lament of an artist trying to make it in the world while also trying to come to terms with the long-term game plan of what they are trying to accomplish, and how inevitably so many of us never meet our own ever-changing goals. It was a song we thought creatives, athletes, entrepreneurs, and artists would understand, and we tried to find a way to tell that story.
+
+<iframe src="https://player.vimeo.com/video/288082837" width="640" height="337" frameborder="0" allowfullscreen></iframe>
 
 <div class="gallery" data-columns="3">
 <img src="/uploads/FT-Website-Screenshots-1021.jpg" />
