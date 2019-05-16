@@ -10,6 +10,8 @@ Every city's got a DOT; luckily New York's is an arts forwards organization. We 
 
 <iframe src="https://player.vimeo.com/video/304025821" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
+Production: NYC Department of Transportation
+Mural Design: Ellen Picken
 
 
 <div class="gallery" data-columns="3">
