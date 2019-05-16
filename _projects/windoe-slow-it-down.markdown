@@ -16,14 +16,14 @@ We dug Windoe's new album so much we made two videos. This was the first song we
 <BR>
 <BR>
 
-Music by Windoe 
-Produced by Caleb Ingersoll
-
-Starring Julie Connolly and Jenna Norman-Rings as swimmers
-
-[https://windoe.bandcamp.com/music](https://windoe.bandcamp.com/music)
-
-Producer: Ellen Picken
-DOP + Editor: Rajah Bose
-Directed by Rajah + Ellen
-Production Company: Factory Town
+Music by Windoe <BR>
+Produced by Caleb Ingersoll<BR>
+<BR>
+Starring Julie Connolly and Jenna Norman-Rings as swimmers<BR>
+<BR>
+[https://windoe.bandcamp.com/music](https://windoe.bandcamp.com/music)<BR>
+<BR>
+Producer: Ellen Picken<BR>
+DOP + Editor: Rajah Bose<BR>
+Directed by Rajah + Ellen<BR>
+Production Company: Factory Town<BR>
