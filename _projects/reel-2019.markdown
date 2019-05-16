@@ -6,7 +6,7 @@ Featured-Image: "/uploads/Captusre.JPG"
 Video-Teaser-File: "/uploads/Reel19-Tease.mov"
 ---
 
-Across three continents, witnessing countless hours of moments through hundreds of hours of footage, meeting hundreds of new people and sharing stories through multiple languages - by all counts we had one hell of a year. But we're not going to lie - we cannot wait to see what's next.
+Across three continents, witnessing countless hours of moments through hundreds of hours of footage, meeting hundreds of new people and sharing stories through multiple languages - by all counts we had one hell of a year. But we're not going to lie - we can't wait to see what's next.
 
 <iframe src="https://player.vimeo.com/video/329743816" width="640" height="268" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
