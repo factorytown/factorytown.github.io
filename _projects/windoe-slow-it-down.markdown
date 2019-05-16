@@ -15,6 +15,8 @@ We dug Windoe's new album so much we made two videos. This was the first song we
 
 <BR>
 <BR>
+FactoryTown_MusicVideo-SlowItDownWindoe1006.png
+
 
 Music by Windoe <BR>
 Produced by Caleb Ingersoll<BR>
