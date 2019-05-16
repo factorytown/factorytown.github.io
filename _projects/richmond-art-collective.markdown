@@ -13,7 +13,6 @@ Richmond approached us to help them build awareness around their collective.
 <div class="gallery" data-columns="3">
 <img src="/uploads/FactoryTown_RichmondArtCollective-VideoStills1001.png" />
 <img src="/uploads/FactoryTown_RichmondArtCollective-VideoStills1002.png" />
-<img src="/uploads/FactoryTown_RichmondArtCollective-VideoStills1003.png" />
 <img src="/uploads/FactoryTown_RichmondArtCollective-VideoStills1004.png" />
 <img src="/uploads/FactoryTown_RichmondArtCollective-VideoStills1006.png" />
 <img src="/uploads/FactoryTown_RichmondArtCollective-VideoStills1007.png" />
