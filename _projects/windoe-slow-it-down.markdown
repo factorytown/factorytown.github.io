@@ -8,7 +8,7 @@ layout: project
 ---
 
 We dug Windoe's new album so much we made two videos. This was the first song we chose together. We loved it for it's spaciousness and it's commentary on the artist struggle. After a few dozen listens, we got down to making mountains. 
-<h3>
+
 <BR><BR>
 
 <iframe src="https://player.vimeo.com/video/327142954" width="100%" height="auto" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
