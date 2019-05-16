@@ -2,7 +2,6 @@
 title: Elysian Brewery
 date: 2018-12-27 22:16:00 -08:00
 position: 8
-Sub-Title: Being a Good Neighbor
 Featured-Image: "/uploads/ElysianBrewery-Mural-8304-3a336e.jpg"
 Video-Teaser-File: "/uploads/Elysian-Tease.mov"
 ---
