@@ -8,7 +8,7 @@ Video-Teaser-File: "/uploads/RAC-Tease.mov"
 
 Richmond approached us to help them build awareness around their collective. 
 
-<iframe src="https://player.vimeo.com/video/296245408" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/304027560" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 <div class="gallery" data-columns="3">
 <img src="/uploads/FactoryTown_RichmondArtCollective-VideoStills1001.png" />
