@@ -7,7 +7,7 @@ Video-Teaser-File: "/uploads/Windoe-SlowDown-Tease.mov"
 layout: project
 ---
 
-<h3> We dug Windoe's new album so much we made two videos. This was the first song we chose together. We loved it for it's spaciousness and it's commentary on the artist struggle. After a few dozen listens, we got down to making mountains. 
+We dug Windoe's new album so much we made two videos. This was the first song we chose together. We loved it for it's spaciousness and it's commentary on the artist struggle. After a few dozen listens, we got down to making mountains. 
 <h3>
 <BR><BR>
 
@@ -21,7 +21,7 @@ Produced by Caleb Ingersoll
 
 Starring Julie Connolly and Jenna Norman-Rings
 
-https://windoe.bandcamp.com/music
+[https://windoe.bandcamp.com/music](https://windoe.bandcamp.com/music)
 
 Producer: Ellen Picken
 DOP + Editor: Rajah Bose
