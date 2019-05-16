@@ -9,7 +9,7 @@ Video-Teaser-File: "/uploads/Impanda-Tease.mov"
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TjWqFQDQmQ4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 The Rise - The origins of Impanda
 
-Omy had a simple but powerful dream - that we are all responsible for one another. He and his partner Sam started an organization to empower children by listening to their stories and giving them the tools and support to become agents of change.  A few months later returned to Rwanda to bring health care to hundreds of kids who needed it the most. While he was home, he saw how the simple act of sharing health and security with others made him feel stronger himself. 
+Omy and Sam had a simple but powerful dream - that we are all responsible for one another. Together they started an organization to empower children by listening to their stories and giving them the tools and support to become agents of change.  A few months later returned to Rwanda to bring health care to hundreds of kids who needed it the most. While he was home, he saw how the simple act of sharing health and security with others made him feel stronger himself. 
 
 Sam and Omy came to us to help brand their non-profit Impanda. Over the course of a few months, we created multiple videos to help Impanda explain what they were doing in the world, and why. 
 
