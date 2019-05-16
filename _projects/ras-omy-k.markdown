@@ -2,7 +2,6 @@
 title: Impanda
 date: 2018-12-28 12:23:00 -08:00
 position: 12
-Sub-Title: Empowerment through song
 Featured-Image: "/uploads/ImpandaRwanda.jpg"
 Video-Teaser-File: "/uploads/Impanda-Tease.mov"
 ---
