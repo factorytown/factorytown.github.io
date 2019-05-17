@@ -26,10 +26,10 @@ We liked Windoe's new album so much we made two videos. This was the second song
 <img src="/uploads/FactoryTown_MusicVideo-SlowItDownWindoe1003.png" />
 <img src="/uploads/FactoryTown_MusicVideo-SlowItDownWindoe1002.png" />
 <img src="/uploads/FactoryTown_MusicVideo-SlowItDownWindoe1008.png" />
-<img src="/uploads/FactoryTown_MusicVideo-SlowItDownWindoe1009.png" />
+<img src="/uploads/FactoryTown_MusicVideo-SlowItDownWindoe1015.png" />
 <img src="/uploads/FactoryTown_MusicVideo-SlowItDownWindoe1012.png" />
 <img src="/uploads/FactoryTown_MusicVideo-SlowItDownWindoe1014.png" />
-<img src="/uploads/FactoryTown_MusicVideo-SlowItDownWindoe1015.png" />
+<img src="/uploads/FactoryTown_MusicVideo-SlowItDownWindoe1009.png" />
 <img src="/uploads/FactoryTown_MusicVideo-SlowItDownWindoe1018.png" />
 <img src="/uploads/FactoryTown_MusicVideo-SlowItDownWindoe1017.png" />
 <img src="/uploads/FactoryTown_MusicVideo-SlowItDownWindoe1016.png" />
