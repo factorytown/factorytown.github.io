@@ -11,30 +11,30 @@ In today's brand-aware world, everyone gets to tell their own story. As new busi
 <iframe src="https://player.vimeo.com/video/252648997" width="640" height="337" frameborder="0" allowfullscreen></iframe>
 
 <div class="gallery" data-columns="3">
-<img src="/uploads/FactoryTown-Spokane-Pitch-VideoStills1002.png" />
-<img src="/uploads/FactoryTown-Spokane-Pitch-VideoStills1001.png" />
-<img src="/uploads/FactoryTown-Spokane-Pitch-VideoStills1003.png" />
-<img src="/uploads/FactoryTown-Spokane-Pitch-VideoStills1004.png" />
-<img src="/uploads/FactoryTown-Spokane-Pitch-VideoStills1005.png" />
-<img src="/uploads/FactoryTown-Spokane-Pitch-VideoStills1007.png" />
-<img src="/uploads/FactoryTown-Spokane-Pitch-VideoStills1008.png" />
-<img src="/uploads/FactoryTown-Spokane-Pitch-VideoStills1009.png" />
-<img src="/uploads/FactoryTown-Spokane-Pitch-VideoStills1011.png" />
-<img src="/uploads/FactoryTown-Spokane-Pitch-VideoStills1012.png" />
-<img src="/uploads/FactoryTown-Spokane-Pitch-VideoStills1010.png" />
-<img src="/uploads/FactoryTown-Spokane-Pitch-VideoStills1013.png" />
-<img src="/uploads/FactoryTown-Spokane-Pitch-VideoStills1014.png" />
-<img src="/uploads/FactoryTown-Spokane-Pitch-VideoStills1015.png" />
-<img src="/uploads/FactoryTown-Spokane-Pitch-VideoStills1016.png" />
-<img src="/uploads/FactoryTown-Spokane-Pitch-VideoStills1017.png" />
-<img src="/uploads/FactoryTown-Spokane-Pitch-VideoStills1018.png" />
-<img src="/uploads/FactoryTown-Spokane-Pitch-VideoStills1019.png" />
-<img src="/uploads/FactoryTown-Spokane-Pitch-VideoStills1020.png" />
-<img src="/uploads/FactoryTown-Spokane-Pitch-VideoStills1022.png" />
-<img src="/uploads/FactoryTown-Spokane-Pitch-VideoStills1023.png" />
-<img src="/uploads/FactoryTown-Spokane-Pitch-VideoStills1025.png" />
-<img src="/uploads/FactoryTown-Spokane-Pitch-VideoStills1026.png" />
-<img src="/uploads/FactoryTown-Spokane-Pitch-VideoStills1027.png" />
+<img src="/uploads/FactoryTown-Spokane-Pitch-VideoStills1002.jpg" />
+<img src="/uploads/FactoryTown-Spokane-Pitch-VideoStills1001.jpg" />
+<img src="/uploads/FactoryTown-Spokane-Pitch-VideoStills1003.jpg" />
+<img src="/uploads/FactoryTown-Spokane-Pitch-VideoStills1004.jpg" />
+<img src="/uploads/FactoryTown-Spokane-Pitch-VideoStills1005.jpg" />
+<img src="/uploads/FactoryTown-Spokane-Pitch-VideoStills1007.jpg" />
+<img src="/uploads/FactoryTown-Spokane-Pitch-VideoStills1008.jpg" />
+<img src="/uploads/FactoryTown-Spokane-Pitch-VideoStills1009.jpg" />
+<img src="/uploads/FactoryTown-Spokane-Pitch-VideoStills1011.jpg" />
+<img src="/uploads/FactoryTown-Spokane-Pitch-VideoStills1012.jpg" />
+<img src="/uploads/FactoryTown-Spokane-Pitch-VideoStills1010.jpg" />
+<img src="/uploads/FactoryTown-Spokane-Pitch-VideoStills1013.jpg" />
+<img src="/uploads/FactoryTown-Spokane-Pitch-VideoStills1014.jpg" />
+<img src="/uploads/FactoryTown-Spokane-Pitch-VideoStills1015.jpg" />
+<img src="/uploads/FactoryTown-Spokane-Pitch-VideoStills1016.jpg" />
+<img src="/uploads/FactoryTown-Spokane-Pitch-VideoStills1017.jpg" />
+<img src="/uploads/FactoryTown-Spokane-Pitch-VideoStills1018.jpg" />
+<img src="/uploads/FactoryTown-Spokane-Pitch-VideoStills1019.jpg" />
+<img src="/uploads/FactoryTown-Spokane-Pitch-VideoStills1020.jpg" />
+<img src="/uploads/FactoryTown-Spokane-Pitch-VideoStills1022.jpg" />
+<img src="/uploads/FactoryTown-Spokane-Pitch-VideoStills1023.jpg" />
+<img src="/uploads/FactoryTown-Spokane-Pitch-VideoStills1025.jpg" />
+<img src="/uploads/FactoryTown-Spokane-Pitch-VideoStills1026.jpg" />
+<img src="/uploads/FactoryTown-Spokane-Pitch-VideoStills1027.jpg" />
 
 
 </div>
