@@ -6,9 +6,10 @@ Featured-Image: "/uploads/GonzagaJPG.JPG"
 Video-Teaser-File: "/uploads/Gonzaga-Tease.mov"
 ---
 
+Over the course of multiple years we built upon the Gonzaga brand, developing the 'Unfold' campaign into photography and video. We were able to tell stories of students and educators with a focus on real connective moments as we built the visual library of the University. 
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/35gb2n5MRcM?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Over the course of multiple years we built upon the Gonzaga brand, developing the 'Unfold' campaign into photography and video. We were able to tell stories of students and educators with a focus on real connective moments as we built the visual library of the University. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hHOYxYL0RK4?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
