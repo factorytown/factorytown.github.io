@@ -11,8 +11,6 @@ Omy and Sam had a simple but powerful dream - that we are all responsible for on
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TjWqFQDQmQ4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 The Rise - The origins of Impanda
 
-
-
 Sam and Omy came to us to help brand their non-profit Impanda. Over the course of a few months, we created multiple videos to help Impanda explain what they were doing in the world, and why. 
 
 Impanda has returned to Rwanda multiple times to bring backpacks to children living on the street filled with the essentials that may help them gain a foothold including recurring health care cards. 
