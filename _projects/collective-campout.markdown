@@ -14,8 +14,8 @@ Addy Awards - Regional - Gold
 
 <div class="gallery" data-columns="3">
 <img src="/uploads/FactoryTown-Spokane-CollectiveCampout1001.png" />
-<img src="/uploads/FactoryTown-Spokane-CollectiveCampout1002.png" />
 <img src="/uploads/FactoryTown-Spokane-CollectiveCampout1003.png" />
+<img src="/uploads/FactoryTown-Spokane-CollectiveCampout1002.png" />
 <img src="/uploads/FactoryTown-Spokane-CollectiveCampout1004.png" />
 <img src="/uploads/FactoryTown-Spokane-CollectiveCampout1005.png" />
 <img src="/uploads/FactoryTown-Spokane-CollectiveCampout1006.png" />
@@ -25,5 +25,5 @@ Addy Awards - Regional - Gold
 <img src="/uploads/FactoryTown-Spokane-CollectiveCampout1010.png" />
 <img src="/uploads/FactoryTown-Spokane-CollectiveCampout1011.png" />
 <img src="/uploads/FactoryTown-Spokane-CollectiveCampout1012.png" />
-<img src="/uploads/FactoryTown-Spokane-CollectiveCampout1013.png" />
+
 
