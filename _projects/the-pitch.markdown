@@ -6,7 +6,7 @@ Featured-Image: "/uploads/Pitch8-9b03ee.JPG"
 Video-Teaser-File: "/uploads/ThePitch-ShortTeaser.mp4"
 ---
 
-In today's brand-aware world, everyone gets to tell their own story. as new businesses are looking for opportunities, cities are competing for awareness. We were approached by the downtown business partnership organization in Spokane to tell the story of the city; not in the way you usually see it, but from the people who are living it. 
+In today's brand-aware world, everyone gets to tell their own story. As new businesses are looking for opportunities for growth, cities are competing for their awareness. We were approached by the downtown business partnership organization in Spokane to tell the story of the city. We wanted to tell a story that set the experience of living in Spokane apart - not in the usual glossy version you often see with city branding, but from the people who are living it. 
 
 <iframe src="https://player.vimeo.com/video/252648997" width="640" height="337" frameborder="0" allowfullscreen></iframe>
 
