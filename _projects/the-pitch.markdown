@@ -30,7 +30,6 @@ In today's brand-aware world, everyone gets to tell their own story. as new busi
 <img src="/uploads/FactoryTown-Spokane-Pitch-VideoStills1018.png" />
 <img src="/uploads/FactoryTown-Spokane-Pitch-VideoStills1019.png" />
 <img src="/uploads/FactoryTown-Spokane-Pitch-VideoStills1020.png" />
-<img src="/uploads/FactoryTown-Spokane-Pitch-VideoStills1021.png" />
 <img src="/uploads/FactoryTown-Spokane-Pitch-VideoStills1022.png" />
 <img src="/uploads/FactoryTown-Spokane-Pitch-VideoStills1023.png" />
 <img src="/uploads/FactoryTown-Spokane-Pitch-VideoStills1025.png" />
