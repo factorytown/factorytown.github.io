@@ -11,8 +11,8 @@ In today's brand-aware world, everyone gets to tell their own story. as new busi
 <iframe src="https://player.vimeo.com/video/252648997" width="640" height="337" frameborder="0" allowfullscreen></iframe>
 
 <div class="gallery" data-columns="3">
-<img src="/uploads/FactoryTown-Spokane-Pitch-VideoStills1001.png" />
 <img src="/uploads/FactoryTown-Spokane-Pitch-VideoStills1002.png" />
+<img src="/uploads/FactoryTown-Spokane-Pitch-VideoStills1001.png" />
 <img src="/uploads/FactoryTown-Spokane-Pitch-VideoStills1003.png" />
 <img src="/uploads/FactoryTown-Spokane-Pitch-VideoStills1004.png" />
 <img src="/uploads/FactoryTown-Spokane-Pitch-VideoStills1005.png" />
