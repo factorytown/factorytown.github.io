@@ -6,7 +6,7 @@ Featured-Image: "/uploads/Richmond-Thumbnail.jpg"
 Video-Teaser-File: "/uploads/RAC-Tease.mov"
 ---
 
-Richmond approached us to help them build awareness around their collective. 
+Richmond approached us to help them build awareness around their arts nonprofit. 
 
 <iframe src="https://player.vimeo.com/video/304027560" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
