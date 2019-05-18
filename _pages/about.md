@@ -4,19 +4,19 @@ title: ABOUT
 
 ### WHAT
 
-## We see art as our common language and stories as our currency. We work closely with brands, non-profits, and artists to bring together their their purpose and vision in a memorable way.
+## We see art as our common language and stories as our currency. We bring people and organizations together through stunning visuals and memorable experiences. 
 
 <BR>
 
 ### WHO
 
-## We're a dual-director studio. That just means we collaborate to help you get your message across effectively and artistically. We work with our hands to make cinema, photography and imaginative visuals. We like to play equally in fiction and non-fiction. Our main goal is to find out what's wrong and help fix it.
+## We're a dual-director studio. That just means we collaborate to get your message across effectively and artistically. We work with our hands to make cinema, photography and imaginative visuals that are entertaining and interactive.
 
 <BR>
 
 ### WHERE
 
-## Factory Town is headquartered in the Pacific Northwest, specifically in Spokane, Washington. It's one of the most beautiful areas we know. Come visit us sometime, we'd love to show you around and take you to pizza or something.
+## Factory Town is headquartered in the Pacific Northwest, specifically in Spokane, Washington. It's one of the most beautiful areas we know. Come visit us sometime, we'd love to show you around and take you to pizza.
 
 <BR>
 
