@@ -14,6 +14,7 @@ The Jacob's Ladder was a toy we forgot. We flipped it, watched it's cascading bl
 As adults we were confident we could comprehend it - reverse engineer and calculate the coefficients, deconstruct it and build it over-sized, watch it closely in slow-motion. We thought we would understand, and yet it has left us equally bewildered. 
 
 THiNGS ChANGE consists of a series of over-sized Jacob's Ladders and is inspired by the nostalgia of childhood and the modern world's constant reminder that things are forever changing and the forever the same.
+
 ![WEBSITE-ThingsChange-TerrainGallery-Sept2019-4847.jpg](/uploads/WEBSITE-ThingsChange-TerrainGallery-Sept2019-4847.jpg)
 ![WEBSITE-ThingsChange-TerrainGallery-Sept2019-4941.jpg](/uploads/WEBSITE-ThingsChange-TerrainGallery-Sept2019-4941.jpg)
 ![WEBSITE-ThingsChange-TerrainGallery-Sept2019-4856.jpg](/uploads/WEBSITE-ThingsChange-TerrainGallery-Sept2019-4856.jpg)![WEBSITE-ThingsChange-TerrainGallery-Sept2019-4938.jpg](/uploads/WEBSITE-ThingsChange-TerrainGallery-Sept2019-4938.jpg)![WEBSITE-ThingsChange-TerrainGallery-Sept2019-4884.jpg](/uploads/WEBSITE-ThingsChange-TerrainGallery-Sept2019-4884.jpg)![WEBSITE-ThingsChange-TerrainGallery-Sept2019-4861.jpg](/uploads/WEBSITE-ThingsChange-TerrainGallery-Sept2019-4861.jpg)
