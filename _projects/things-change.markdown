@@ -1,7 +1,7 @@
 ---
 title: THiNGS ChANGE
 date: 2019-10-02 12:47:00 -07:00
-categories:
+tags:
 - art
 position: 3
 Featured-Image: "/uploads/WEBSITE-SQThingsChange-TerrainGallery-Sept2019-4862.jpg"
