@@ -1,7 +1,7 @@
 ---
 title: Standing Still - Windoe
 date: 2018-12-28 00:11:00 -08:00
-position: 5
+position: 6
 Featured-Image: "/uploads/WindoeStandingSTill-0ec724.JPG"
 Video-Teaser-File: "/uploads/Windoe-StandingStill-Short.mp4"
 layout: project

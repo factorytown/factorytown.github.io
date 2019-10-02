@@ -1,7 +1,7 @@
 ---
 title: The Heart of Rwanda
 date: 2018-12-28 00:01:00 -08:00
-position: 7
+position: 8
 Featured-Image: "/uploads/Rwanda2.jpg"
 Video-Teaser-File: "/uploads/RwandaHearts-Tease.mov"
 ---

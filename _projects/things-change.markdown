@@ -5,6 +5,7 @@ categories:
 - art
 tags:
 - art
+position: 3
 Featured-Image: "/uploads/WEBSITE-ThingsChange-TerrainGallery-Sept2019-4862.jpg"
 ---
 
