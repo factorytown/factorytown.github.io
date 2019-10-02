@@ -15,11 +15,12 @@ THiNGS ChANGE consists of a series of over-sized Jacob's Ladders and is inspired
 
 <div class="gallery" data-columns="3">
 <img src="/uploads/WEBSITE-ThingsChange-TerrainGallery-Sept2019-4847.jpg" />
+<img src="/uploads/WEBSITE-ThingsChange-TerrainGallery-Sept2019-4938.jpg" />
 <img src="/uploads/WEBSITE-ThingsChange-TerrainGallery-Sept2019-4884.jpg" />
-<img src="/uploads/WEBSITE-ThingsChange-TerrainGallery-Sept2019-4941.jpg" />
 <img src="/uploads/WEBSITE-ThingsChange-TerrainGallery-Sept2019-4856.jpg" />
 <img src="/uploads/WEBSITE-ThingsChange-TerrainGallery-Sept2019-4861.jpg" />
-<img src="/uploads/WEBSITE-ThingsChange-TerrainGallery-Sept2019-4938.jpg" />
+<img src="/uploads/WEBSITE-ThingsChange-TerrainGallery-Sept2019-4941.jpg" />
+
 
 
 </div>
