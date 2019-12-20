@@ -9,11 +9,12 @@ title: ABOUT
 
 ## We see art as our common language and stories as our currency. We bring people and organizations together through stunning visuals and memorable experiences. 
 
-## FACTORY TOWN services include: creating content for commercial advertising. We work with you to produce videos, photos, and printed materials to reach your customers.
+FACTORY TOWN services include: 
+creating content for commercial advertising. We work with you to produce videos, photos, and printed materials to reach your customers.
 
-## We produce independent cinematic films from short documentaries to music videos. 
+We produce independent cinematic films from short documentaries to music videos. 
 
-## We design and build art objects and installations that bring us all out from behind our screens, helping us experience the real world together.
+We design and build art objects and installations that bring us all out from behind our screens, helping us experience the real world together.
 
 <BR>
 
