@@ -13,7 +13,7 @@ title: ABOUT
 
 ## We produce independent cinematic films from short documentaries to music videos. 
 
-## We design and build art objects and installations that bring us out from behind our screens helping us experience the real world together.
+## We design and build art objects and installations that bring us all out from behind our screens, helping us experience the real world together.
 
 <BR>
 
