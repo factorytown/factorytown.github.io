@@ -9,7 +9,6 @@ title: ABOUT
 
 ## We see art as our common language and stories as our currency. We bring people and organizations together through stunning visuals and memorable experiences. 
 
-
 <BR>
 
 ### WHO
@@ -28,18 +27,19 @@ title: ABOUT
 
 ## We hate forms, so drop us a line, an insta direct, a telegram or just #hashtag us. We'll get back to you.
 
-<BR>
-## FACTORY TOWN services include: 
-## Creating content for commercial advertising. We work with you to produce videos, photos, and printed materials to reach your customers.
-
-## Producing independent cinematic films from short documentaries to music videos. 
-
-## Designing art objects and installations that bring us out from behind our screens, helping us experience the real world together.
-
-<BR>
-
 # email <a href="mailto:hi@factory.town" class="js-no-ajax">hi@factory.town</a>
 
 # instagram [@factory.town](http://instagram.com/factory.town)
 
 # phone 509.720.7252
+
+<BR>
+### FACTORY TOWN services include: 
+### Creating content for commercial advertising. We work with you to produce videos, photos, and printed materials to reach your customers.
+
+### Producing independent cinematic films from short documentaries to music videos. 
+
+### Designing art objects and installations that bring us out from behind our screens, helping us experience the real world together.
+
+<BR>
+
