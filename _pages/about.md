@@ -13,7 +13,7 @@ title: ABOUT
 
 ### WHO
 
-## We're a dual-director studio. That means we collaborate to get your message across. 
+## We're a dual-director studio. We work in collaboration to get your message across. 
 
 <BR>
 
