@@ -24,7 +24,7 @@ title: ABOUT
 <BR>
 
 ### HOW
-
+### Drop us a line and let's see where this goes. 
 
 # email <a href="mailto:hi@factory.town" class="js-no-ajax">hi@factory.town</a>
 
