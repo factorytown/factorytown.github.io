@@ -7,7 +7,7 @@ title: ABOUT
 
 ### WHAT
 
-## We see art as our common language and stories as our currency. We work with our hands to make imaginative visuals that are entertaining and interactive. We bring people and organizations together through memorable experiences. 
+## We see art as our common language and stories as our currency. We work with our hands to make imaginative visuals that are entertaining and interactive to bring people and organizations together through memorable experiences. 
 
 <BR>
 
