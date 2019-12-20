@@ -25,8 +25,6 @@ title: ABOUT
 
 ### HOW
 
-## Drop us a line, an insta direct, a telegram or just #hashtag us. We'll get back to you. 
-<BR>
 
 # email <a href="mailto:hi@factory.town" class="js-no-ajax">hi@factory.town</a>
 
