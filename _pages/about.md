@@ -21,7 +21,7 @@ title: ABOUT
 
 ## Factory Town is headquartered in the Pacific Northwest, specifically in Spokane, Washington. Come visit us sometime, we'd love to show you around and take you to pizza.
 
-<BR>
+<BR> 
 ## FACTORY TOWN services include: 
 ## Creating content for commercial advertising. We work with you to produce videos, photos, and printed materials to reach your customers.
 ## Producing independent cinematic films from short documentaries to music videos. 
@@ -37,6 +37,6 @@ title: ABOUT
 
 # phone 509.720.7252
 
-<BR>
+
 <BR>
 
