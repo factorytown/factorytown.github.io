@@ -2,9 +2,18 @@
 title: ABOUT
 ---
 
+### FACTORY TOWN
+
+
 ### WHAT
 
 ## We see art as our common language and stories as our currency. We bring people and organizations together through stunning visuals and memorable experiences. 
+
+Factory Town creates content for commercial advertising. We will work with you to produce the videos, photos, and printed materials you need to reach your customers.
+
+We produce independent cinematic films from short documentaries to music videos. 
+
+We design and build art objects and installations that bring us out from behind our screens helping us experience the real world together.
 
 <BR>
 
