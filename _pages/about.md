@@ -12,7 +12,7 @@ title: ABOUT
 ## FACTORY TOWN™ services include: 
 ## Creating content for commercial advertising. We work with you to produce videos, photos, and printed materials to reach your customers.
 
-## Producing independent cinematic films from short documentaries to music videos. 
+## Writing and directing independent cinematic films from short documentaries to music videos. 
 
 ## Designing art objects and installations that bring us out from behind our screens, helping us experience the real world together.
 
