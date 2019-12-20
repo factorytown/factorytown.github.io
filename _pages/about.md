@@ -39,7 +39,7 @@ title: ABOUT
 
 ### Producing independent cinematic films from short documentaries to music videos. 
 
-### Designing art objects and installations that bring us out from behind our screens, helping us experience the real world together.
+### Designing art objects and installations that bring us all out from behind our screens, helping us experience the real world together.
 
 <BR>
 
