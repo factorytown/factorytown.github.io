@@ -2,7 +2,7 @@
 title: ABOUT
 ---
 
-## FACTORYTOWN™
+## FACTORY TOWN™
 
 
 ### WHAT 
