@@ -7,6 +7,6 @@ $(document).on('click', '#overlay', function(){
 
 window.addEventListener("scroll", () => {
     
-    $('#overlay').hide();
+    $('#overlay').fadeOut('slow');
 
 }, {once: true });
