@@ -1,7 +1,7 @@
 // Overlay
 $(document).on('click', '#overlay', function(){
 
-    $('#overlay').hide();
+    $('#overlay').fadeOut('slow');
     
 });
 
