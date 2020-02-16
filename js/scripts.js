@@ -2,7 +2,11 @@
 $(document).on('click', '#overlay', function(){
 
     $('#overlay').hide();
-    console.log('Okey Dokey');
-    
     
 });
+
+window.addEventListener("scroll", () => {
+    
+    $('#overlay').hide();
+
+}, {once: true });
