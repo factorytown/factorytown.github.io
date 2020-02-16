@@ -2,5 +2,7 @@
 $(document).on('click', '#overlay', function(){
 
     $('#overlay').hide();
-    console.log('OK');
+    console.log('Okey Dokey');
+    
+    
 });
