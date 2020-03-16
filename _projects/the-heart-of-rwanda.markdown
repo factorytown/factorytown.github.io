@@ -10,7 +10,7 @@ In 2016 we accompanied Healing Hearts Northwest on their fifth trip to Rwanda wh
 
 Documentary was released in connection to a story we wrote and published with accompanying photos also gathered from the same trip. 
 
-<iframe src="https://player.vimeo.com/video/303786933" width="640" height="337" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/303786933" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
 
 <div class="gallery" data-columns="3">
