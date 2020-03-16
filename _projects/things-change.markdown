@@ -13,6 +13,8 @@ As adults we were confident we could comprehend it - reverse engineer and calcul
 
 THiNGS ChANGE consists of a series of over-sized Jacob's Ladders and is inspired by the nostalgia of childhood and the modern world's constant reminder that things are forever changing and the forever the same.
 
+<iframe src="https://player.vimeo.com/video/397864272" width="640" height="346" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
 
 <iframe src="https://player.vimeo.com/video/397864272" width="640" height="337" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
