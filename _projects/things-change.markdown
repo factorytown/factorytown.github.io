@@ -15,9 +15,6 @@ THiNGS ChANGE consists of a series of over-sized Jacob's Ladders and is inspired
 
 <iframe src="https://player.vimeo.com/video/397864272" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-
-<iframe src="https://player.vimeo.com/video/397864272" width="640" height="337" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
 <div class="gallery" data-columns="3">
 <img src="/uploads/WEBSITE-SQThingsChange-TerrainGallery-Sept2019-4847.jpg" />
 
