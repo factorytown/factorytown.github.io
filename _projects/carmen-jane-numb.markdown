@@ -43,7 +43,7 @@ Carmen Jane came to us with an idea - a big idea. She wanted to take over a gall
 
 Written by: Carmen Jane & Nico Rebscher <BR>
 <BR>
-Starring Julie Connolly and Jenna Norman-Rings as swimmers<BR>
+Starring Carmen Jane <BR>
 <BR>
 [Carmen Jane on Apple Music](https://itunes.apple.com/us/artist/carmen-jane/1526883492?ign-gact=3&ls=1)<BR>
 <BR>
