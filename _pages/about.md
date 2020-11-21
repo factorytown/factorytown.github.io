@@ -7,17 +7,17 @@ title: ABOUT
 
 ## We see art as our common language. Some say that's math, but we prefer to compute in color. Stories are our currency and we bring people and organizations together through visual experiences. 
 
-## We create content - commercials, ads, little thingies for social. We work with you to produce videos, photos, and stuff to help you reach people.
+## So yeah, we create content - commercials, ads, little thingies for social. We work with you to produce videos, photos, and stuff to help you reach people.
 
-## Writing and directing - from music videos to documentaries to short films. 
+## That means writing and directing - from music videos to documentaries to short films. 
 
-## Designing art objects and installations that bring us out from behind our screens, helping us experience the real world together.
+## We're into creating new things and ideas - designing objects and installations that bring us all out from behind our screens, helping us experience this intensely weird real world together.
 
 <BR>
 
 ### WHO
 
-## We're a dual-director studio. That just means we collaborate to get your message across effectively and artistically. We work with our hands to make cinema, photography and imaginative visuals that are entertaining and interactive.
+## We're a dual-director studio. We collaborate to get your message across effectively and artistically. We work with our hands to make cinema, photography and imaginative visuals that are entertaining and interactive.
 
 <BR>
 
