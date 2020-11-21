@@ -1,6 +1,7 @@
 ---
 title: The Cold Millions
 date: 2020-11-21 13:09:00 -08:00
+Featured-Image: "/uploads/ColdMillionsSq.jpg"
 ---
 
 Jess Walter's ninth book is set in his hometown of Spokane, Washington in the early 1900s. It's a place that flies under the radar for most folks, so he decided he wanted to help his readers understand the place where he was born, went to school and had built his literary career.  
