@@ -8,7 +8,7 @@ Featured-Image: "/uploads/FUN-Preview.jpg"
 Video-Teaser-File: "/uploads/FUN-Preview-Sq-3.mov"
 ---
 
-Carmen Jane came to us with an idea - a big idea. She wanted to take over a gallery and build an art installation to debut her new album with a subsequent video. That was before the world melted, and once we were in the midst of a quarantine, we had to pivot. 
+Carmen Jane came to us with an idea - a big idea. She wanted to take over a gallery and build an art installation to debut her new album with a subsequent video. That was before the world melted, and once we were in the midst of a quarantine, we pivoted to bringing all the ideas from the show into the video. 
 
 <BR><BR>
 
