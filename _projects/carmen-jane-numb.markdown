@@ -1,6 +1,9 @@
 ---
 title: Carmen Jane - FUN
 date: 2020-11-21 11:33:00 -08:00
+tags:
+- music video
+- music
 Video-Teaser-File: "/uploads/FUN-Preview-Sq-4.mov"
 ---
 
