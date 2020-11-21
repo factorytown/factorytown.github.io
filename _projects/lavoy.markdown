@@ -1,5 +1,5 @@
 ---
-title: Lavoy
+title: Chicago - Lavoy
 date: 2018-12-27 23:55:00 -08:00
 position: 4
 Featured-Image: "/uploads/Lavoy4JPG.JPG"
