@@ -5,12 +5,11 @@ title: ABOUT
 
 ### WHAT 
 
-## We see art as our common language and stories as our currency. We bring people and organizations together through stunning visuals and memorable experiences. 
+## We see art as our common language. Some say that's math, but we prefer to compute in color. Stories are our currency and we bring people and organizations together through visual experiences. 
 
-## 
-## We Create content for commercial advertising. We work with you to produce videos, photos, and printed materials to reach your customers.
+## We create content - commercials, ads, little thingies for social. We work with you to produce videos, photos, and stuff to help you reach people.
 
-## Writing and directing independent cinematic films from short documentaries to music videos. 
+## Writing and directing - from music videos to documentaries to short films. 
 
 ## Designing art objects and installations that bring us out from behind our screens, helping us experience the real world together.
 
@@ -24,13 +23,13 @@ title: ABOUT
 
 ### WHERE
 
-## Factory Town is headquartered in the Pacific Northwest, specifically in Spokane, Washington. It's one of the most beautiful areas we know. Come visit us sometime, we'd love to show you around and take you to pizza.
+## Factory Town is headquartered in the Pacific Northwest, specifically in Spokane, Washington. It's one of the most beautiful areas we know. Come visit us, we'd love to show you around and take you to pizza.
 
 <BR>
 
 ### HOW
 
-## We hate forms, so drop us a line, an insta direct, a telegram or just #hashtag us. We'll get back to you.
+## Drop us a line, an insta direct, a telegram or just #hashtag us. We'll get back to you.
 
 <BR>
 <BR>
