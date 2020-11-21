@@ -9,8 +9,7 @@ Carmen Jane came to us with an idea - a big idea. She wanted to take over a gall
 
 <BR><BR>
 
-<iframe src="https://player.vimeo.com/video/445406913" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
+<iframe src="https://player.vimeo.com/video/469650448" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 <BR>
 <BR>
