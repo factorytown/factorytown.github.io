@@ -2,15 +2,13 @@
 title: ABOUT
 ---
 
-## FACTORY TOWN™
-
 
 ### WHAT 
 
 ## We see art as our common language and stories as our currency. We bring people and organizations together through stunning visuals and memorable experiences. 
 
-## FACTORY TOWN™ services include: 
-## Creating content for commercial advertising. We work with you to produce videos, photos, and printed materials to reach your customers.
+## 
+## We Create content for commercial advertising. We work with you to produce videos, photos, and printed materials to reach your customers.
 
 ## Writing and directing independent cinematic films from short documentaries to music videos. 
 
