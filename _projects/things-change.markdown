@@ -5,6 +5,7 @@ tags:
 - art
 position: 3
 Featured-Image: "/uploads/WEBSITE-SQThingsChange-TerrainGallery-Sept2019-4862.jpg"
+Video-Teaser-File: "/uploads/ThingsChange-SqWEbsite-2-55dceb.mp4"
 ---
 
 The Jacob's Ladder was a toy we forgot. We flipped it, watched it's cascading blocks fall as if they could forever, then we threw it in a box and left it for decades.  It was a puzzle we couldn't solve - a simple mystery and an unanswerable question.
