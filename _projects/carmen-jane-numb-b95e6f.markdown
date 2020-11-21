@@ -5,7 +5,7 @@ Featured-Image: "/uploads/NUMB-Book_FTWebsite.jpg"
 Video-Teaser-File: "/uploads/NUMB-Book_FTWebsite2.mov"
 ---
 
-Carmen Jane came to us with an idea - a big idea. She wanted to take over a gallery and build an art installation to debut her new album with a subsequent video. That was before the world melted, and once we were in the midst of a quarantine, we pivoted to bringing all the ideas from the show into the video. 
+One of the most important elements in approaching this sophomore effort (our second video with Carmen) was to was to set it apart from where she had been in her other work. 
 
 <BR><BR>
 
