@@ -45,7 +45,7 @@ Written by: Carmen Jane & Nico Rebscher <BR>
 <BR>
 Starring Julie Connolly and Jenna Norman-Rings as swimmers<BR>
 <BR>
-[https://itunes.apple.com/us/artist/carmen-jane/1526883492?ign-gact=3&ls=1](Carmen Jane on Apple Music)<BR>
+[Carmen Jane on Apple Music](https://itunes.apple.com/us/artist/carmen-jane/1526883492?ign-gact=3&ls=1)<BR>
 <BR>
 Producer: Ellen Picken<BR>
 DOP \+ Editor: Rajah Bose<BR>
