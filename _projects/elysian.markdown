@@ -1,7 +1,7 @@
 ---
 title: Elysian Brewery
 date: 2018-12-27 22:16:00 -08:00
-position: 9
+position: 14
 Featured-Image: "/uploads/ElysianBrewery-Mural-8304-3a336e.jpg"
 Video-Teaser-File: "/uploads/Elysian-Tease.mov"
 ---

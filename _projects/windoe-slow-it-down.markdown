@@ -1,7 +1,7 @@
 ---
 title: Slow It Down  - Windoe
 date: 2019-02-04 15:18:00 -08:00
-position: 1
+position: 6
 Featured-Image: "/uploads/windoeslow22.jpg"
 Video-Teaser-File: "/uploads/Windoe-SlowDown-Tease.mov"
 layout: project

@@ -1,6 +1,7 @@
 ---
 title: The Cold Millions
 date: 2020-11-21 13:09:00 -08:00
+position: 4
 Featured-Image: "/uploads/ColdMillionsSq.jpg"
 Video-Teaser-File: "/uploads/ColdMillions-FTWebsiteSq.mp4"
 ---
