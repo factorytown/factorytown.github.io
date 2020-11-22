@@ -2,7 +2,7 @@
 title: So It Begins
 date: 2020-11-21 19:30:00 -08:00
 position: 0
-Featured-Image: "/uploads/SoItbegins.jpg"
+Featured-Image: "/uploads/SoItbegins-9f5511.jpg"
 Video-Teaser-File: "/uploads/SoitBegins-sq.mp4"
 ---
 
