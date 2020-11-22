@@ -1,9 +1,10 @@
 ---
-title: So It Begins - An Operatic Short
+title: So It Begins
 date: 2020-11-21 19:30:00 -08:00
+Video-Teaser-File: "/uploads/SoItBegins-Promo%20square.mp4"
 ---
 
-Madeline 
+An Opera about the pandemic and the way we live by Madeline McNeill. We had been talking to Madeline for what seems like years about working on something together. It just so happens that in the middle of quarantining, we got stuck in the same house during a snowstorm together and this was born. 
 
 <BR><BR>
 
