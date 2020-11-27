@@ -44,13 +44,13 @@ An Opera about the pandemic and the way we live by Madeline McNeill. We had been
 Written by: Madeline McNeill <BR>
 <BR>
 Starring 
-Madeline McNeill  - www.madelinemcneill.com 
-Nicole Brianna - www.instagram.com/themissnickieb
+Madeline McNeill 
+Nicole Brianna 
 <BR>
-Flute - Alicia Mielke - www.aliciamielke.com/
-Marimba - Aly Way Music  www.alywaymusic.com/
+Flute - Alicia Mielke 
+Marimba - Aly Way Music 
 Cello - Cheryl Carney 
-Bass - Kim Plewniak - spokanesymphony.org/meet-the-musicians/kim-plewniak/
+Bass - Kim Plewniak 
 
 Sound Engineer - Andy Bennett
 
