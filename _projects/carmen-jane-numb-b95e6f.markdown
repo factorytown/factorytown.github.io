@@ -17,8 +17,8 @@ One of the most important elements in approaching this sophomore effort (our sec
 
 
 <div class="gallery" data-columns="3">
-<img src="/uploads/FactoryTown_MusicVideo-Numb1006.jpg" />
-<img src="/uploads/FactoryTown_MusicVideo-Numb1004.jpg" />
+<img src="/uploads/FactoryTown_MusicVideo-Numb1001.jpg" />
+<img src="/uploads/FactoryTown_MusicVideo-Numb1002.jpg" />
 <img src="/uploads/FactoryTown_MusicVideo-Numb1007.jpg" />
 <img src="/uploads/FactoryTown_MusicVideo-Numb1005.jpg" />
 <img src="/uploads/FactoryTown_MusicVideo-Numb1001.jpg" />
@@ -32,7 +32,6 @@ One of the most important elements in approaching this sophomore effort (our sec
 <img src="/uploads/FactoryTown_MusicVideo-Numb1018.jpg" />
 <img src="/uploads/FactoryTown_MusicVideo-Numb1017.jpg" />
 <img src="/uploads/FactoryTown_MusicVideo-Numb1016.jpg" />
-
 
 </div>
 
