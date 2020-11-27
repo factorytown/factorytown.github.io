@@ -19,19 +19,22 @@ One of the most important elements in approaching this sophomore effort (our sec
 <div class="gallery" data-columns="3">
 <img src="/uploads/FactoryTown_MusicVideo-Numb1001.jpg" />
 <img src="/uploads/FactoryTown_MusicVideo-Numb1002.jpg" />
-<img src="/uploads/FactoryTown_MusicVideo-Numb1007.jpg" />
-<img src="/uploads/FactoryTown_MusicVideo-Numb1005.jpg" />
-<img src="/uploads/FactoryTown_MusicVideo-Numb1001.jpg" />
 <img src="/uploads/FactoryTown_MusicVideo-Numb1003.jpg" />
-<img src="/uploads/FactoryTown_MusicVideo-Numb1002.jpg" />
+<img src="/uploads/FactoryTown_MusicVideo-Numb1004.jpg" />
+<img src="/uploads/FactoryTown_MusicVideo-Numb1005.jpg" />
+<img src="/uploads/FactoryTown_MusicVideo-Numb1006.jpg" />
+<img src="/uploads/FactoryTown_MusicVideo-Numb1007.jpg" />
 <img src="/uploads/FactoryTown_MusicVideo-Numb1008.jpg" />
-<img src="/uploads/FactoryTown_MusicVideo-Numb1015.jpg" />
-<img src="/uploads/FactoryTown_MusicVideo-Numb1012.jpg" />
-<img src="/uploads/FactoryTown_MusicVideo-Numb1014.jpg" />
 <img src="/uploads/FactoryTown_MusicVideo-Numb1009.jpg" />
-<img src="/uploads/FactoryTown_MusicVideo-Numb1018.jpg" />
-<img src="/uploads/FactoryTown_MusicVideo-Numb1017.jpg" />
+<img src="/uploads/FactoryTown_MusicVideo-Numb1010.jpg" />
+<img src="/uploads/FactoryTown_MusicVideo-Numb1011.jpg" />
+<img src="/uploads/FactoryTown_MusicVideo-Numb1012.jpg" />
+<img src="/uploads/FactoryTown_MusicVideo-Numb1013.jpg" />
+<img src="/uploads/FactoryTown_MusicVideo-Numb1014.jpg" />
+<img src="/uploads/FactoryTown_MusicVideo-Numb1015.jpg" />
 <img src="/uploads/FactoryTown_MusicVideo-Numb1016.jpg" />
+<img src="/uploads/FactoryTown_MusicVideo-Numb1017.jpg" />
+<img src="/uploads/FactoryTown_MusicVideo-Numb1018.jpg" />
 
 </div>
 
