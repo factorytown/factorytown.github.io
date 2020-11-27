@@ -18,28 +18,6 @@ We based the short documentary on an old set of postcards from the early 1900s, 
 <BR>
 
 
-<div class="gallery" data-columns="3">
-<img src="/uploads/FactoryTown_MusicVideo-SlowItDownWindoe1006.jpg" />
-<img src="/uploads/FactoryTown_MusicVideo-SlowItDownWindoe1004.jpg" />
-<img src="/uploads/FactoryTown_MusicVideo-SlowItDownWindoe1007.jpg" />
-<img src="/uploads/FactoryTown_MusicVideo-SlowItDownWindoe1005.jpg" />
-<img src="/uploads/FactoryTown_MusicVideo-SlowItDownWindoe1001.jpg" />
-<img src="/uploads/FactoryTown_MusicVideo-SlowItDownWindoe1003.jpg" />
-<img src="/uploads/FactoryTown_MusicVideo-SlowItDownWindoe1002.jpg" />
-<img src="/uploads/FactoryTown_MusicVideo-SlowItDownWindoe1008.jpg" />
-<img src="/uploads/FactoryTown_MusicVideo-SlowItDownWindoe1015.jpg" />
-<img src="/uploads/FactoryTown_MusicVideo-SlowItDownWindoe1012.jpg" />
-<img src="/uploads/FactoryTown_MusicVideo-SlowItDownWindoe1014.jpg" />
-<img src="/uploads/FactoryTown_MusicVideo-SlowItDownWindoe1009.jpg" />
-<img src="/uploads/FactoryTown_MusicVideo-SlowItDownWindoe1018.jpg" />
-<img src="/uploads/FactoryTown_MusicVideo-SlowItDownWindoe1017.jpg" />
-<img src="/uploads/FactoryTown_MusicVideo-SlowItDownWindoe1016.jpg" />
-
-</div>
-
-
-
-
 Written by: Jess Walter <BR>
 <BR>
 The Cold Millions is available wherever books are sold
