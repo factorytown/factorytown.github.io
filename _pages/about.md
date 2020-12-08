@@ -5,13 +5,13 @@ title: ABOUT
 
 ### WHAT 
 
-## We see art as our common language. Some say that's math, but we prefer to compute in color. Stories are our currency and we bring people and organizations together through visual experiences. 
+## Art is our common language. Some say it's math, but we compute in colors. 
+
+##Stories are our currency and we bring people and organizations together through visual experiences. 
 
 ## So yeah, we create content - commercials, ads, little thingies for social. We work with you to produce videos, photos, and stuff to help you reach people.
 
-## That means writing and directing - from music videos to documentaries to short films. 
-
-## We're into creating new things and ideas - designing objects and installations that bring us all out from behind our screens, helping us experience this intensely weird real world together.
+## We're into creating new things - helping us experience this intensely weird real world together.
 
 <BR>
 
