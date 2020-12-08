@@ -31,5 +31,5 @@ title: ABOUT
 <BR>
 <BR>
 ## <a href="mailto:hi@factory.town" target="_blank">hi@factory.town</a>
-
+<a id="mailto" href="mailto:hi@factory.town" target="_newtab" > hi@factory.town </a>
 
