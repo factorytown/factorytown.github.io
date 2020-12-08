@@ -30,7 +30,7 @@ title: ABOUT
 <BR>
 <BR>
 <BR>
-## <a href="mailto:hi@factory.town" target="new">hi@factory.town</a>
+## <a href="mailto:hi@factory.town">hi@factory.town</a>
 
 
 ## <a href="mailto:hi@factory.town" target="_blank" rel="noopener noreferrer">hi@factory.town</a>
