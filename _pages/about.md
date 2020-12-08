@@ -33,13 +33,13 @@ title: ABOUT
 
 <BR>
 <BR>
+<BR>
 
 # email <a href="mailto:hi@factory.town" class="js-no-ajax">hi@factory.town</a>
 
 # instagram [@factory.town](http://instagram.com/factory.town)
 
 # phone 509.720.7252
-
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
@@ -50,7 +50,8 @@ title: ABOUT
 <div id="mc_embed_signup">
 <form action="https://town.us20.list-manage.com/subscribe/post?u=aa0712737481fad4fc368fb34&amp;id=e7086af3a2" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
-	<h2>Subscribe</h2>
+	<h2>Wanna keep up with what we're doing?</h2>
+<div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
 <div class="mc-field-group">
 	<label for="mce-FNAME">First Name </label>
 	<input type="text" value="" name="FNAME" class="" id="mce-FNAME">
@@ -60,7 +61,8 @@ title: ABOUT
 	<input type="text" value="" name="LNAME" class="" id="mce-LNAME">
 </div>
 <div class="mc-field-group">
-	<label for="mce-EMAIL">Email Address </label>
+	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
+</label>
 	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
 </div>
 <div class="mc-field-group">
