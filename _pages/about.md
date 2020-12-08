@@ -7,9 +7,7 @@ title: ABOUT
 
 ## Art is our common language. Stories are our currency. We bring people and organizations together through visual experiences. 
 
-## So yeah, we make content - commercials, ads, little thingies for the internet. We work with you to produce stuff to help you reach people.
-
-## We like making new things that help us experience this intensely weird world together.
+## So yeah, we make content - commercials, ads, little thingies for the internet. We work with you to produce stuff to help you reach people and help us all experience this weird world together. 
 
 <BR>
 
