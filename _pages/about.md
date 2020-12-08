@@ -5,9 +5,8 @@ title: ABOUT
 
 ### WHAT 
 
-## Art is our common language. Some say it's math, but we compute in colors. 
-
-##Stories are our currency and we bring people and organizations together through visual experiences. 
+## Art is our common language. Stories are our currency. 
+We bring people and organizations together through visual experiences. 
 
 ## So yeah, we create content - commercials, ads, little thingies for social. We work with you to produce videos, photos, and stuff to help you reach people.
 
