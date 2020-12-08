@@ -29,7 +29,7 @@ title: ABOUT
 
 ### HOW
 
-## Drop us a line, an insta direct, a telegram or just #hashtag us. We'll get back to you.
+## Drop us a line about anything. We'll get back to you.
 
 <BR>
 <BR>
