@@ -31,4 +31,4 @@ title: ABOUT
 
 ## **[hi@factory.town](hi@factory.town)**
 
-## <a href="mailto:hi@factory.town" target="new">hi@factory.town</a>
+## <a href="mailto:hi@factory.town" target="new" >hi@factory.town</a>
