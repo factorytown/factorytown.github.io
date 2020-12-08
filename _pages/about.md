@@ -17,7 +17,7 @@ title: ABOUT
 
 ### WHO
 
-## We're a dual-director studio. We collaborate to get your message across effectively and artistically. We work with our hands to make cinema, photography and imaginative visuals that are entertaining and interactive.
+## We're a dual-director studio. We collaborate to get your message across effectively and artistically. 
 
 <BR>
 
