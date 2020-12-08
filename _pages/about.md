@@ -23,7 +23,7 @@ title: ABOUT
 
 ### WHERE
 
-## Factory Town is headquartered in the Pacific Northwest, specifically in Spokane, Washington. It's one of the most beautiful areas we know. Come visit us, we'd love to show you around and take you to pizza.
+## Factory Town is headquartered in the Pacific Northwest, in Spokane, Washington. It's one of the most beautiful areas we know. Come visit us, we'd love to show you around and take you to pizza.
 
 <BR>
 
