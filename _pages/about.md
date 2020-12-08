@@ -2,18 +2,17 @@
 title: ABOUT
 ---
 
+### WHAT
 
-### WHAT 
+## Art is our common language. Stories are our currency. We bring people and organizations together through visual experiences.
 
-## Art is our common language. Stories are our currency. We bring people and organizations together through visual experiences. 
-
-## So yeah, we make content - commercials, ads, little thingies for the internet. We work with you to produce stuff to help you reach people and help us all experience this weird world together. 
+## So yeah, we make content - commercials, ads, little thingies for the internet. We work with you to produce stuff to help you reach people and help us all experience this weird world together.
 
 <BR>
 
 ### WHO
 
-## We're a dual-director studio. We collaborate to get your message across effectively and artistically. 
+## We're a dual-director studio. We collaborate to get your message across effectively and artistically.
 
 <BR>
 
@@ -30,8 +29,6 @@ title: ABOUT
 <BR>
 <BR>
 
+## **[hi@factory.town](hi@factory.town)**
+
 ## <a href="mailto:hi@factory.town">hi@factory.town</a>
-
-
-## <a href="mailto:hi@factory.town" target="_blank" rel="noopener noreferrer">hi@factory.town</a>
-
