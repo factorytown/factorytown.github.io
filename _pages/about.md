@@ -35,3 +35,5 @@ title: ABOUT
 hi@factory.town
 </a>
 
+## <a href="mailto:hi@factory.town" target="_blank" rel="noopener noreferrer">hi@factory.town</a>
+
