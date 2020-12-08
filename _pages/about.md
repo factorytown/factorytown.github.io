@@ -34,4 +34,6 @@ title: ABOUT
 <BR>
 <BR>
 <BR>
+<a href="mailto:hi@factory.town">hi@factory.town</a>
+
 
