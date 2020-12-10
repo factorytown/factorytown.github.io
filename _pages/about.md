@@ -29,6 +29,4 @@ title: ABOUT
 <BR>
 <BR>
 
-## **[hi@factory.town](hi@factory.town)**
-
 ## <a href="mailto:hi@factory.town" target="_new" class="js-no-ajax">hi@factory.town</a>
