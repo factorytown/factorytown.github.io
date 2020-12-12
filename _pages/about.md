@@ -12,7 +12,7 @@ title: ABOUT
 
 ### WHERE
 
-## We're headquartered in the Pacific Northwest. Come see - we'd love to show you around and take you to pizza.
+## We're headquartered in the Pacific Northwest in Spokane, WA. Come see us - we'd love to show you around and take you to pizza.
 
 <BR>
 
