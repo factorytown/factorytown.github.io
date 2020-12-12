@@ -10,12 +10,6 @@ title: ABOUT
 
 <BR>
 
-## WHO
-
-### We're a dual-director studio. We collaborate to get your message across effectively and artistically.
-
-<BR>
-
 ## WHERE
 
 ### Factory Town is headquartered in the Pacific Northwest, in Spokane, Washington. We love it here. Come see - we'd love to show you around and take you to pizza.
