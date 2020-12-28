@@ -23,10 +23,11 @@ title: ABOUT
 ### CONTACT
 ## <a href="mailto:hi@factory.town" target="_new" class="js-no-ajax">hi@factory.town</a>
 
-
-### KEEP UP
+<br>
+### KEEP UP WITH US
 ## We'd love to keep you up on what we're doing. 
 <center>
+<BR>
 <BR>
 <form action="http://sendy.factory.town/subscribe" method="POST" accept-charset="utf-8">
 	<label for="name">First Name</label><br/>
