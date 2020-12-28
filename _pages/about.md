@@ -18,12 +18,13 @@ title: ABOUT
 
 ### CONTACT
 
-## Drop us a line about anything. We'll get back to you. Or follow us 
-
-## email <a href="mailto:hi@factory.town" target="_new" class="js-no-ajax">hi@factory.town</a>
+## Follow us or send us a note. We'd love to hear from you. 
 
 ## instagram <a href="http://instagram.com/factory.town">@factory.town</a>
 <BR>
+## email <a href="mailto:hi@factory.town" target="_new" class="js-no-ajax">hi@factory.town</a>
+
+
 
 
 
