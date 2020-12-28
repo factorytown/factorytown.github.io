@@ -35,7 +35,7 @@ title: ABOUT
 	<br/>
 <label for="last">Last Name</label><br/>
 <input type="text" name="last" id="last"/><br/><div style="display:none;">
-
+<br/>
 	<label for="email">Email</label><br/>
 	<input type="email" name="email" id="email"/>
 <br/>
