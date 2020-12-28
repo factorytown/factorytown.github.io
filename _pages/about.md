@@ -16,13 +16,7 @@ title: ABOUT
 
 <BR>
 
-### CONTACT
 
-## Drop us a line about anything. We'll get back to you.
-
-## <a href="mailto:hi@factory.town" target="_new" class="js-no-ajax">hi@factory.town</a>
-
-<br>
 ### KEEP UP WITH US
 ## We'd love to keep you up on what we're doing. We promise, no spam or bad jokes.
 <center>
@@ -46,3 +40,14 @@ title: ABOUT
 	<input type="hidden" name="subform" value="yes"/>
 	<input type="submit" name="submit" id="submit"/>
 </form>
+
+##<a href="http://instagram.com/factory.town">instagram</a>
+<BR>
+<BR>
+### CONTACT
+
+## Drop us a line about anything. We'll get back to you.
+
+## <a href="mailto:hi@factory.town" target="_new" class="js-no-ajax">hi@factory.town</a>
+
+<br>
