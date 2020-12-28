@@ -27,15 +27,15 @@ title: ABOUT
 ### KEEP UP
 ## We'd love to keep you up on what we're doing. 
 <form action="http://sendy.factory.town/subscribe" method="POST" accept-charset="utf-8">
-	<label for="name">Name</label><br/>
+	<label for="name">First Name</label><br/>
 	<input type="text" name="name" id="name"/>
 	<br/>
-	<label for="email">Email</label><br/>
-	<input type="email" name="email" id="email"/>
-<br/>
-<label for="last">last</label><br/>
+	<label for="last">Last Name</label><br/>
 <input type="text" name="last" id="last"/><br/><div style="display:none;">
 	<label for="hp">HP</label><br/>
+<label for="email">Email</label><br/>
+	<input type="email" name="email" id="email"/>
+<br/>
 	<input type="text" name="hp" id="hp"/>
 	</div>
 	<input type="hidden" name="list" value="hSPWAyGO6mOQ892ooRWHAjuQ"/>
