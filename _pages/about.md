@@ -18,15 +18,11 @@ title: ABOUT
 
 ### CONTACT
 
-## Follow us or send us a note. We'd love to hear from you. 
-
+## Follow us or send us a note. We'd love to hear from you.
 ## instagram <a href="http://instagram.com/factory.town">@factory.town</a>
-<BR>
 ## email <a href="mailto:hi@factory.town" target="_new" class="js-no-ajax">hi@factory.town</a>
 
-
-
-
+<BR>
 
 ### KEEP UP WITH US
 ## We'd love to keep you up on what we're doing. We promise, no spam or bad jokes.
