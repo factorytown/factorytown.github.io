@@ -22,7 +22,6 @@ title: ABOUT
 
 ## email <a href="mailto:hi@factory.town" target="_new" class="js-no-ajax">hi@factory.town</a>
 
-<br>
 ## instagram <a href="http://instagram.com/factory.town">@factory.town</a>
 <BR>
 
