@@ -34,12 +34,12 @@ title: ABOUT
 	<input type="text" name="name" id="name"/>
 	<br/>
 <label for="last">Last Name</label><br/>
-<input type="text" name="last" id="last"/><br/><div style="display:none;">
-<br/>
+<input type="text" name="last" id="last"/><br/>
+
 	<label for="email">Email</label><br/>
 	<input type="email" name="email" id="email"/>
 <br/>
-
+<div style="display:none;">
 	<label for="hp">HP</label><br/>
 	<input type="text" name="hp" id="hp"/>
 	</div>
