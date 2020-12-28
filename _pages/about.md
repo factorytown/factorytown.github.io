@@ -18,7 +18,7 @@ title: ABOUT
 
 ### CONTACT
 
-## Follow us or send us a note. We'd love to hear from you. <BR>
+## Follow us or send us a note. We'd love to hear from you. 
 
 ## instagram <a href="http://instagram.com/factory.town">@factory.town</a>
 <BR>
