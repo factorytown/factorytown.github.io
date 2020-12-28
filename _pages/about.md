@@ -24,7 +24,7 @@ title: ABOUT
 
 <br>
 ### KEEP UP WITH US
-## We'd love to keep you up on what we're doing. 
+## We'd love to keep you up on what we're doing. We promise, no spam or bad jokes.
 <center>
 <BR>
 <BR>
