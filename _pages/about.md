@@ -27,7 +27,7 @@ title: ABOUT
 ### KEEP UP
 ## We'd love to keep you up on what we're doing. 
 <center>
-
+<BR>
 <form action="http://sendy.factory.town/subscribe" method="POST" accept-charset="utf-8">
 	<label for="name">First Name</label><br/>
 	<input type="text" name="name" id="name"/>
