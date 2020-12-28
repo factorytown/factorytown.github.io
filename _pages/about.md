@@ -16,11 +16,10 @@ title: ABOUT
 
 <BR>
 
-### HOW
+### CONTACT
 
 ## Drop us a line about anything. We'll get back to you.
 
-### CONTACT
 ## <a href="mailto:hi@factory.town" target="_new" class="js-no-ajax">hi@factory.town</a>
 
 <br>
